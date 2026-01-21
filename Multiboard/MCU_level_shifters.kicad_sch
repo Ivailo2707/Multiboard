@@ -736,7 +736,7 @@
 	)
 	(text "SPI1"
 		(exclude_from_sim no)
-		(at 20.574 106.68 0)
+		(at 18.796 106.934 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -5398,86 +5398,6 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:Q_Dual_NMOS_G1S2G2D2S1D1")
-		(at 85.09 88.9 270)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3a4a4ffb-4c0b-472a-9b58-270eafeaef4a")
-		(property "Reference" "Q2"
-			(at 85.09 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Q_Dual_NMOS_G1S2G2D2S1D1"
-			(at 85.09 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual NMOS transistor, 6 pin package"
-			(at 85.09 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
-		)
-		(pin "1"
-			(uuid "cfcb3f4d-5084-4ddc-91bf-db943550e960")
-		)
-		(pin "6"
-			(uuid "bac2d872-3747-451d-998b-6fcacefb07d6")
-		)
-		(pin "5"
-			(uuid "becb1dfb-3faf-4293-b4ee-4a540fc9eec3")
-		)
-		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
-		)
-		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/47d00c33-b241-4dd6-bf0c-4e5c6f2dc35e"
-					(reference "Q2")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:Q_Dual_NMOS_G1S2G2D2S1D1")
 		(at 36.83 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5552,6 +5472,86 @@
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/47d00c33-b241-4dd6-bf0c-4e5c6f2dc35e"
 					(reference "Q2")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:Q_Dual_NMOS_G1S2G2D2S1D1")
+		(at 85.09 88.9 270)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a4a4ffb-4c0b-472a-9b58-270eafeaef4a")
+		(property "Reference" "Q2"
+			(at 85.09 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Q_Dual_NMOS_G1S2G2D2S1D1"
+			(at 85.09 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 85.09 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual NMOS transistor, 6 pin package"
+			(at 85.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+		)
+		(pin "1"
+			(uuid "cfcb3f4d-5084-4ddc-91bf-db943550e960")
+		)
+		(pin "6"
+			(uuid "bac2d872-3747-451d-998b-6fcacefb07d6")
+		)
+		(pin "5"
+			(uuid "becb1dfb-3faf-4293-b4ee-4a540fc9eec3")
+		)
+		(pin "4"
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+		)
+		(pin "2"
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/47d00c33-b241-4dd6-bf0c-4e5c6f2dc35e"
+					(reference "Q2")
+					(unit 2)
 				)
 			)
 		)
