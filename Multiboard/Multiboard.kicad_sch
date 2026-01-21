@@ -5497,12 +5497,6 @@
 		(uuid "d9e3dc98-4928-4227-ae16-31711dbc5780")
 	)
 	(junction
-		(at 57.15 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eade538e-6850-46ff-b359-324dacbc527d")
-	)
-	(junction
 		(at 261.62 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5880,7 +5874,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 74.93) (xy 85.09 74.93)
+			(xy 74.93 74.93) (xy 152.4 74.93)
 		)
 		(stroke
 			(width 0)
@@ -6217,16 +6211,6 @@
 			(type default)
 		)
 		(uuid "2d934ec1-fd52-46b2-9be4-d5284fcf526c")
-	)
-	(wire
-		(pts
-			(xy 57.15 123.19) (xy 54.61 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31bca80d-2da5-40b4-8530-8f9fc96d321e")
 	)
 	(wire
 		(pts
@@ -7170,7 +7154,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 123.19) (xy 57.15 123.19)
+			(xy 54.61 123.19) (xy 58.42 123.19)
 		)
 		(stroke
 			(width 0)
@@ -7327,16 +7311,6 @@
 			(type default)
 		)
 		(uuid "a14a03b8-e401-4eb4-b7e3-848b42e51c28")
-	)
-	(wire
-		(pts
-			(xy 140.97 74.93) (xy 152.4 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1ab87d9-7e24-4794-aac9-06bb071c7eaf")
 	)
 	(wire
 		(pts
@@ -8448,6 +8422,16 @@
 		)
 		(uuid "527d1a53-f92d-4367-9e03-b39e19ca81f5")
 	)
+	(label "PB5"
+		(at 85.09 107.95 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "52c3762e-6bea-4ece-830b-b195a217aadf")
+	)
 	(label "PB3"
 		(at 107.95 135.89 0)
 		(effects
@@ -8798,6 +8782,16 @@
 		)
 		(uuid "f5a2d70b-7d6d-456d-ab46-16d8e5bd6be3")
 	)
+	(label "PB5"
+		(at 146.05 123.19 180)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right bottom)
+		)
+		(uuid "f5a4a58d-32b6-4466-8728-f85d3b991aed")
+	)
 	(label "PA8"
 		(at 118.11 95.25 0)
 		(effects
@@ -8807,50 +8801,6 @@
 			(justify left bottom)
 		)
 		(uuid "fd519dd4-4826-40c1-87f4-ebeb692810c1")
-	)
-	(global_label "PA2-MCU"
-		(shape passive)
-		(at 140.97 74.93 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify right)
-		)
-		(uuid "082e0e16-ddaa-47bc-8836-5e7de95449d6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.33 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PB5-GPIO"
-		(shape passive)
-		(at 85.09 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify left)
-		)
-		(uuid "0b99d116-6871-4431-ad0d-c4ff8b2d9c12")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.0929 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "PA12-MCU"
 		(shape passive)
@@ -8975,28 +8925,6 @@
 		(uuid "2e9593fc-36a6-43fd-9a47-236fe350ffe5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 139.3011 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PB5-MCU"
-		(shape passive)
-		(at 146.05 123.19 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify right)
-		)
-		(uuid "38d8b0f5-f310-46fd-8cee-d6e30272a72b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.3011 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9530,28 +9458,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PA2-GPIO"
-		(shape passive)
-		(at 85.09 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify left)
-		)
-		(uuid "db158277-56c4-4cbf-a1e3-515b9077c798")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.984 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -15191,72 +15097,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 57.15 123.19 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1448598-f33c-421c-bef6-3fb1ba8b4959")
-		(property "Reference" "#FLG02"
-			(at 57.15 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 57.15 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 57.15 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 57.15 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 57.15 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "85b4a763-07a1-4d11-aeca-4313b61e3314")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1"
-					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 335.28 101.6 0)
 		(unit 1)
@@ -16194,7 +16034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3.3V"
+		(property "Value" "3V3"
 			(at 62.23 123.1899 90)
 			(effects
 				(font
