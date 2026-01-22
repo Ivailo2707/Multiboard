@@ -4254,7 +4254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 91.44 187.96 0)
 			(effects
 				(font
@@ -4317,7 +4317,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "096c04f5-b705-45a7-b0b4-287cd0c6fdae")
+		(uuid "096c04f5-b705-45a7-b0b4-287cd0c6fdaf")
 		(property "Reference" "Q4"
 			(at 39.37 189.23 90)
 			(effects
@@ -4334,7 +4334,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 39.37 187.96 0)
 			(effects
 				(font
@@ -4362,22 +4362,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd5")
 		)
 		(pin "1"
-			(uuid "27a4038b-8433-44a9-a7bf-4e5fd0736b00")
+			(uuid "27a4038b-8433-44a9-a7bf-4e5fd0736b01")
 		)
 		(pin "6"
-			(uuid "fd1adfe1-c615-4813-84d2-28d5e8dbc83e")
+			(uuid "fd1adfe1-c615-4813-84d2-28d5e8dbc83f")
 		)
 		(pin "5"
-			(uuid "2ed3979e-6e23-4712-8435-23185b9b369c")
+			(uuid "2ed3979e-6e23-4712-8435-23185b9b369d")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff7")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a7")
 		)
 		(instances
 			(project "Multiboard"
@@ -4484,7 +4484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 143.51 90.17 0)
 			(effects
 				(font
@@ -4512,7 +4512,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd6")
 		)
 		(pin "1"
 			(uuid "8fe10833-10ec-4916-9809-b3ae27082f3c")
@@ -4524,10 +4524,10 @@
 			(uuid "46335afc-9385-4462-8490-3b0eb31f7ca2")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff8")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a8")
 		)
 		(instances
 			(project "Multiboard"
@@ -4547,7 +4547,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "14e21956-104c-4759-a070-3a0b8b91b87d")
+		(uuid "14e21956-104c-4759-a070-3a0b8b91b87e")
 		(property "Reference" "Q5"
 			(at 143.51 48.26 90)
 			(effects
@@ -4564,7 +4564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 143.51 46.99 0)
 			(effects
 				(font
@@ -4592,22 +4592,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd7")
 		)
 		(pin "1"
-			(uuid "8fe10833-10ec-4916-9809-b3ae27082f3c")
+			(uuid "8fe10833-10ec-4916-9809-b3ae27082f3d")
 		)
 		(pin "6"
-			(uuid "0c8fe7c2-452a-42b4-afe3-efa302def47f")
+			(uuid "0c8fe7c2-452a-42b4-afe3-efa302def480")
 		)
 		(pin "5"
-			(uuid "46335afc-9385-4462-8490-3b0eb31f7ca2")
+			(uuid "46335afc-9385-4462-8490-3b0eb31f7ca3")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff9")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a9")
 		)
 		(instances
 			(project "Multiboard"
@@ -4850,7 +4850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 39.37 36.83 0)
 			(effects
 				(font
@@ -4878,7 +4878,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd8")
 		)
 		(pin "1"
 			(uuid "3a12448e-bf1e-44cc-ac29-cd245f8ef16b")
@@ -4890,10 +4890,10 @@
 			(uuid "b97a689a-d02b-4eff-b7b6-b556d6f0cfaa")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ffa")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391aa")
 		)
 		(instances
 			(project "Multiboard"
@@ -4913,7 +4913,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "226ca604-3278-425e-b3f5-0aa989ce84fd")
+		(uuid "226ca604-3278-425e-b3f5-0aa989ce84fe")
 		(property "Reference" "Q1"
 			(at 39.37 64.77 90)
 			(effects
@@ -4930,7 +4930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 39.37 63.5 0)
 			(effects
 				(font
@@ -4958,22 +4958,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd9")
 		)
 		(pin "1"
-			(uuid "3a12448e-bf1e-44cc-ac29-cd245f8ef16b")
+			(uuid "3a12448e-bf1e-44cc-ac29-cd245f8ef16c")
 		)
 		(pin "6"
-			(uuid "32bb65f2-974f-4530-b05a-9746ddfd23b7")
+			(uuid "32bb65f2-974f-4530-b05a-9746ddfd23b8")
 		)
 		(pin "5"
-			(uuid "b97a689a-d02b-4eff-b7b6-b556d6f0cfaa")
+			(uuid "b97a689a-d02b-4eff-b7b6-b556d6f0cfab")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ffb")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391ab")
 		)
 		(instances
 			(project "Multiboard"
@@ -5422,7 +5422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 36.83 93.98 0)
 			(effects
 				(font
@@ -5450,7 +5450,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbda")
 		)
 		(pin "1"
 			(uuid "cfcb3f4d-5084-4ddc-91bf-db943550e960")
@@ -5462,10 +5462,10 @@
 			(uuid "becb1dfb-3faf-4293-b4ee-4a540fc9eec3")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ffc")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391ac")
 		)
 		(instances
 			(project "Multiboard"
@@ -5485,7 +5485,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3a4a4ffb-4c0b-472a-9b58-270eafeaef4a")
+		(uuid "3a4a4ffb-4c0b-472a-9b58-270eafeaef4b")
 		(property "Reference" "Q2"
 			(at 85.09 95.25 90)
 			(effects
@@ -5502,7 +5502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 85.09 93.98 0)
 			(effects
 				(font
@@ -5530,22 +5530,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbdb")
 		)
 		(pin "1"
-			(uuid "cfcb3f4d-5084-4ddc-91bf-db943550e960")
+			(uuid "cfcb3f4d-5084-4ddc-91bf-db943550e961")
 		)
 		(pin "6"
-			(uuid "bac2d872-3747-451d-998b-6fcacefb07d6")
+			(uuid "bac2d872-3747-451d-998b-6fcacefb07d7")
 		)
 		(pin "5"
-			(uuid "becb1dfb-3faf-4293-b4ee-4a540fc9eec3")
+			(uuid "becb1dfb-3faf-4293-b4ee-4a540fc9eec4")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ffd")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391ad")
 		)
 		(instances
 			(project "Multiboard"
@@ -5648,7 +5648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 39.37 158.75 0)
 			(effects
 				(font
@@ -5676,7 +5676,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbdc")
 		)
 		(pin "1"
 			(uuid "0fd61599-9ad0-4a73-917a-5e71a3141f8b")
@@ -5688,10 +5688,10 @@
 			(uuid "d0a9842e-ce0b-4996-8634-e2907c8f6a8e")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ffe")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391ae")
 		)
 		(instances
 			(project "Multiboard"
@@ -5711,7 +5711,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3d16ff5a-b126-424b-91d5-81a011836964")
+		(uuid "3d16ff5a-b126-424b-91d5-81a011836965")
 		(property "Reference" "Q3"
 			(at 39.37 129.54 90)
 			(effects
@@ -5728,7 +5728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 39.37 128.27 0)
 			(effects
 				(font
@@ -5756,22 +5756,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbdd")
 		)
 		(pin "1"
-			(uuid "0fd61599-9ad0-4a73-917a-5e71a3141f8b")
+			(uuid "0fd61599-9ad0-4a73-917a-5e71a3141f8c")
 		)
 		(pin "6"
-			(uuid "7276ce1b-7b4f-4ab4-87d9-1eebca0c7434")
+			(uuid "7276ce1b-7b4f-4ab4-87d9-1eebca0c7435")
 		)
 		(pin "5"
-			(uuid "d0a9842e-ce0b-4996-8634-e2907c8f6a8e")
+			(uuid "d0a9842e-ce0b-4996-8634-e2907c8f6a8f")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5fff")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391af")
 		)
 		(instances
 			(project "Multiboard"
@@ -6500,7 +6500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 236.22 69.85 0)
 			(effects
 				(font
@@ -6528,7 +6528,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbde")
 		)
 		(pin "1"
 			(uuid "ddfda1cb-fe5b-4d80-8131-4c5be1c9f97d")
@@ -6540,10 +6540,10 @@
 			(uuid "4379a36b-57d7-4448-85b3-df691ec1bbb5")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a6000")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391b0")
 		)
 		(instances
 			(project "Multiboard"
@@ -6563,7 +6563,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7b141c5f-7e5f-403b-ae64-93754a0b0a9d")
+		(uuid "7b141c5f-7e5f-403b-ae64-93754a0b0a9e")
 		(property "Reference" "Q6"
 			(at 236.22 40.64 90)
 			(effects
@@ -6580,7 +6580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 236.22 39.37 0)
 			(effects
 				(font
@@ -6608,22 +6608,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbdf")
 		)
 		(pin "1"
-			(uuid "ddfda1cb-fe5b-4d80-8131-4c5be1c9f97d")
+			(uuid "ddfda1cb-fe5b-4d80-8131-4c5be1c9f97e")
 		)
 		(pin "6"
-			(uuid "a8e73fa0-1313-4444-b1c2-42807d9262a2")
+			(uuid "a8e73fa0-1313-4444-b1c2-42807d9262a3")
 		)
 		(pin "5"
-			(uuid "4379a36b-57d7-4448-85b3-df691ec1bbb5")
+			(uuid "4379a36b-57d7-4448-85b3-df691ec1bbb6")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a6001")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391b1")
 		)
 		(instances
 			(project "Multiboard"
@@ -8104,7 +8104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 288.29 95.25 0)
 			(effects
 				(font
@@ -8132,7 +8132,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbe0")
 		)
 		(pin "1"
 			(uuid "f653caff-9959-4b54-8553-27f5c734683e")
@@ -8144,10 +8144,10 @@
 			(uuid "9bf83fe3-ba6e-4c07-96f1-743d72b05fa9")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a6002")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391b2")
 		)
 		(instances
 			(project "Multiboard"
@@ -8167,7 +8167,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bb6bd5fc-876b-4ed4-bbcb-c5b1d2f314b4")
+		(uuid "bb6bd5fc-876b-4ed4-bbcb-c5b1d2f314b5")
 		(property "Reference" "Q7"
 			(at 236.22 99.06 90)
 			(effects
@@ -8184,7 +8184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 236.22 97.79 0)
 			(effects
 				(font
@@ -8212,22 +8212,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbe1")
 		)
 		(pin "1"
-			(uuid "f653caff-9959-4b54-8553-27f5c734683e")
+			(uuid "f653caff-9959-4b54-8553-27f5c734683f")
 		)
 		(pin "6"
-			(uuid "29f46736-a6b4-4362-82ec-16986dc52fb8")
+			(uuid "29f46736-a6b4-4362-82ec-16986dc52fb9")
 		)
 		(pin "5"
-			(uuid "9bf83fe3-ba6e-4c07-96f1-743d72b05fa9")
+			(uuid "9bf83fe3-ba6e-4c07-96f1-743d72b05faa")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a6003")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391b3")
 		)
 		(instances
 			(project "Multiboard"
@@ -8809,7 +8809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 142.24 130.81 0)
 			(effects
 				(font
@@ -8837,7 +8837,7 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbe2")
 		)
 		(pin "1"
 			(uuid "6a2b7679-79c5-4634-8cce-dd89cd26b3da")
@@ -8849,10 +8849,10 @@
 			(uuid "601946bb-f8b4-4b45-818d-261748d9db6a")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a6004")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391b4")
 		)
 		(instances
 			(project ""
@@ -8872,7 +8872,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f3fc237d-95d6-4b9c-9018-a53dead49f6e")
+		(uuid "f3fc237d-95d6-4b9c-9018-a53dead49f6f")
 		(property "Reference" "Q14"
 			(at 173.99 158.75 90)
 			(effects
@@ -8889,7 +8889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
 			(at 173.99 157.48 0)
 			(effects
 				(font
@@ -8917,22 +8917,22 @@
 			)
 		)
 		(pin "3"
-			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbd4")
+			(uuid "6db10581-d777-4f88-85ae-5fc66a1ffbe3")
 		)
 		(pin "1"
-			(uuid "6a2b7679-79c5-4634-8cce-dd89cd26b3da")
+			(uuid "6a2b7679-79c5-4634-8cce-dd89cd26b3db")
 		)
 		(pin "6"
-			(uuid "5127d91f-9b44-4a39-8330-802feedb73d7")
+			(uuid "5127d91f-9b44-4a39-8330-802feedb73d8")
 		)
 		(pin "5"
-			(uuid "601946bb-f8b4-4b45-818d-261748d9db6a")
+			(uuid "601946bb-f8b4-4b45-818d-261748d9db6b")
 		)
 		(pin "4"
-			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a5ff6")
+			(uuid "fb1141fc-5a77-4917-b793-3b8b6c2a6005")
 		)
 		(pin "2"
-			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391a6")
+			(uuid "0d41ecb0-bf8c-4093-be11-a11a87e391b5")
 		)
 		(instances
 			(project ""
