@@ -4756,16 +4756,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 151.13 81.28 180)
+		(at 151.13 81.28 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ddf822c-c363-440b-a7a2-606525322dc3")
 		(property "Reference" "R21"
-			(at 148.59 82.5501 0)
+			(at 153.67 82.5501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4774,7 +4774,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 148.59 80.0101 0)
+			(at 153.67 80.0101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4783,7 +4783,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 152.908 81.28 90)
+			(at 149.352 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
