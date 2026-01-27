@@ -5527,10 +5527,6 @@
 		(uuid "edef9b6f-9536-42cb-a5cf-487b32b0ff66")
 	)
 	(no_connect
-		(at 152.4 176.53)
-		(uuid "00a2624b-b676-4550-bf1b-fcf9da7bd892")
-	)
-	(no_connect
 		(at 320.04 93.98)
 		(uuid "0d792f11-79d8-41f1-9c81-3b8f8c4cb0ef")
 	)
@@ -5547,16 +5543,20 @@
 		(uuid "3d153635-6d13-494c-9d30-7bfee21780d9")
 	)
 	(no_connect
+		(at 152.4 97.79)
+		(uuid "9cfab90c-2368-4206-a117-bee9f3a79c59")
+	)
+	(no_connect
+		(at 152.4 100.33)
+		(uuid "b40de7f4-5718-4348-a081-f9beb145ee27")
+	)
+	(no_connect
 		(at 152.4 151.13)
 		(uuid "c56b25c4-5970-4915-ac69-99da152f63d4")
 	)
 	(no_connect
 		(at 152.4 158.75)
 		(uuid "c9225751-ca16-46e7-9ba4-26415782fbe3")
-	)
-	(no_connect
-		(at 152.4 179.07)
-		(uuid "caebb6d4-f24a-4044-97d9-b9609941ad1c")
 	)
 	(no_connect
 		(at 152.4 163.83)
@@ -6212,16 +6212,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 100.33) (xy 152.4 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37a0172a-ce37-41a6-85e3-7deeefa2712e")
-	)
-	(wire
-		(pts
 			(xy 246.38 83.82) (xy 259.08 83.82)
 		)
 		(stroke
@@ -6489,6 +6479,16 @@
 			(type default)
 		)
 		(uuid "4c7c2442-6b3c-4904-a3af-b2bdb4ed6273")
+	)
+	(wire
+		(pts
+			(xy 147.32 176.53) (xy 152.4 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e648107-f9f3-4b1e-8c60-f95d67ff35c3")
 	)
 	(wire
 		(pts
@@ -7322,16 +7322,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 97.79) (xy 152.4 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ade33c3c-e97a-47f7-b6fe-4a440b91f71a")
-	)
-	(wire
-		(pts
 			(xy 140.97 69.85) (xy 152.4 69.85)
 		)
 		(stroke
@@ -7389,6 +7379,16 @@
 			(type default)
 		)
 		(uuid "b259e9a6-a077-486d-b447-6bc0f5b7a244")
+	)
+	(wire
+		(pts
+			(xy 147.32 179.07) (xy 152.4 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2b658ee-6e06-4e59-b2d1-1d7158c2f1b8")
 	)
 	(wire
 		(pts
@@ -8230,6 +8230,16 @@
 		)
 		(uuid "08803214-980d-436a-b75b-2f8c89205cfe")
 	)
+	(label "PC10"
+		(at 85.09 102.87 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "0dcd6997-e56e-4031-ba20-c3cd46a58faa")
+	)
 	(label "SWDIO_PA13"
 		(at 139.7 102.87 0)
 		(effects
@@ -8350,6 +8360,16 @@
 		)
 		(uuid "62a46f1e-3455-4ceb-a52d-b292e94cd6ec")
 	)
+	(label "PC11"
+		(at 147.32 179.07 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "64983757-ee9e-4199-9b82-29c925d000d0")
+	)
 	(label "PC13"
 		(at 276.86 25.4 0)
 		(effects
@@ -8399,6 +8419,16 @@
 			(justify left bottom)
 		)
 		(uuid "81e79fe8-2f54-4d0e-af05-4e56a073860b")
+	)
+	(label "PC11"
+		(at 85.09 105.41 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "856fce6c-77d6-4c10-860e-f96535a1ec0c")
 	)
 	(label "D+"
 		(at 314.96 81.28 0)
@@ -8590,6 +8620,16 @@
 		)
 		(uuid "d30a053a-9ba8-4373-a8d4-00ff84c2b046")
 	)
+	(label "PC10"
+		(at 147.32 176.53 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbe188bd-acc7-416c-bce6-6b361f2c0fec")
+	)
 	(label "PB14"
 		(at 107.95 153.67 0)
 		(effects
@@ -8669,28 +8709,6 @@
 			(justify left bottom)
 		)
 		(uuid "fd519dd4-4826-40c1-87f4-ebeb692810c1")
-	)
-	(global_label "PA12-MCU"
-		(shape passive)
-		(at 140.97 100.33 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify right)
-		)
-		(uuid "11e215a5-c1dd-4921-8b51-35033a1e5ea3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.6043 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "PA11-MCU"
 		(shape passive)
@@ -8912,28 +8930,6 @@
 			)
 		)
 	)
-	(global_label "PA12-GPIO"
-		(shape passive)
-		(at 85.09 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify left)
-		)
-		(uuid "50607215-8943-492e-83b9-2496de74c2a2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.7097 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PA4-GPIO"
 		(shape passive)
 		(at 85.09 80.01 0)
@@ -9035,28 +9031,6 @@
 		(uuid "69a78bff-4aff-4439-8080-1ff08c850ae3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 104.7929 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PA11-GPIO"
-		(shape passive)
-		(at 85.09 102.87 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify left)
-		)
-		(uuid "6e035bca-b57e-4d36-9afd-86ee9a56209d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.7097 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9458,28 +9432,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PA11-MCU"
-		(shape passive)
-		(at 140.97 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify right)
-		)
-		(uuid "f8e38e23-c9a4-4864-8272-77bd23e229cf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.6043 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -12350,7 +12302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 345.44 120.015 0)
 			(effects
 				(font
@@ -13504,7 +13456,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 123.19 213.36 0)
 			(effects
 				(font
@@ -14784,7 +14736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 123.19 187.96 0)
 			(effects
 				(font
