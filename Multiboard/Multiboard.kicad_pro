@@ -136,7 +136,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.25,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -644,8 +644,16 @@
       "Root"
     ],
     [
-      "47d00c33-b241-4dd6-bf0c-4e5c6f2dc35e",
+      "218b9c79-34c6-4f16-af2d-c91825215b5a",
       "MCU_Level_Shifters"
+    ],
+    [
+      "2bca3eb5-73b3-4aa8-9f30-e1743a374253",
+      "MCU"
+    ],
+    [
+      "a1879700-d4ae-4f4f-b9ed-53e5618d969d",
+      "FPGA"
     ]
   ],
   "text_variables": {}
