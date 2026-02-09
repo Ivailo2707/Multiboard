@@ -5431,12 +5431,6 @@
 		(uuid "6a4037d7-9285-4f4f-b70c-b54c53388921")
 	)
 	(junction
-		(at 119.38 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "74902eaa-f08c-4707-a219-31284dad9e04")
-	)
-	(junction
 		(at 119.38 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6514,7 +6508,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 59.69) (xy 119.38 58.42)
+			(xy 119.38 58.42) (xy 119.38 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7331,16 +7325,6 @@
 			(type default)
 		)
 		(uuid "a2737250-5b75-49fe-92a3-de8bfe99b828")
-	)
-	(wire
-		(pts
-			(xy 119.38 60.96) (xy 119.38 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a325fced-3ecc-4bd3-8973-03cc5396fcda")
 	)
 	(wire
 		(pts
@@ -11215,73 +11199,6 @@
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253"
 					(reference "#PWR097")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 119.38 59.69 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "443c08a2-0dd7-4dec-ad5e-fb2831f1ea4d")
-		(property "Reference" "#FLG03"
-			(at 121.285 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 123.19 59.6899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 119.38 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 119.38 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d5dbb31-30aa-4d91-904d-d343d46d9dba")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253"
-					(reference "#FLG03")
 					(unit 1)
 				)
 			)
