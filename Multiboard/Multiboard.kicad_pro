@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -654,6 +654,10 @@
     [
       "a1879700-d4ae-4f4f-b9ed-53e5618d969d",
       "FPGA"
+    ],
+    [
+      "39699ff7-0a15-4f77-94a0-c1dca93517d8",
+      "FTDI"
     ]
   ],
   "text_variables": {}

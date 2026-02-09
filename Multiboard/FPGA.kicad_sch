@@ -5,4 +5,46 @@
 	(uuid "611dcc4f-2003-46a6-a8e0-a55126dc0105")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 24.13 98.806)
+		(size 49.53 90.424)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39699ff7-0a15-4f77-94a0-c1dca93517d8")
+		(property "Sheetname" "FTDI"
+			(at 24.13 98.0944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FT2232HL.kicad_sch"
+			(at 24.13 189.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d"
+					(page "5")
+				)
+			)
+		)
+	)
 )

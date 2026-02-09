@@ -48,7 +48,7 @@
 		)
 	)
 	(sheet
-		(at 138.684 24.892)
+		(at 140.716 26.67)
 		(size 115.062 131.826)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +64,7 @@
 		)
 		(uuid "a1879700-d4ae-4f4f-b9ed-53e5618d969d")
 		(property "Sheetname" "FPGA"
-			(at 138.684 24.1804 0)
+			(at 140.716 25.9584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "FPGA.kicad_sch"
-			(at 138.684 157.3026 0)
+			(at 140.716 159.0806 0)
 			(effects
 				(font
 					(size 1.27 1.27)
