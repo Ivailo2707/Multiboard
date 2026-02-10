@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FPGA_LDO")(type "KiCad")(uri "${KIPRJMOD}/FPGA_LDO.kicad_sym")(options "")(descr ""))
+)
