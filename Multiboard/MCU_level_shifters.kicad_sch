@@ -5111,7 +5111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54475681-0a5f-4003-8ab7-80807482404a")
-		(property "Reference" "SW7"
+		(property "Reference" "SW8"
 			(at 281.94 26.67 0)
 			(effects
 				(font
@@ -5163,7 +5163,7 @@
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a"
-					(reference "SW7")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
