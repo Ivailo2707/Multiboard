@@ -1017,7 +1017,7 @@
 	(footprint "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 		(layer "F.Cu")
 		(uuid "08c6cac8-5535-458d-a911-b65a650a0abd")
-		(at 87.0025 95.826 -90)
+		(at 101.86625 121.07 -90)
 		(descr "SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf")
 		(tags "SMD SMT Crystal")
 		(property "Reference" "Y1"
@@ -2827,7 +2827,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "27e9f766-a31a-44b9-8212-4de335ba2915")
-		(at 83.9665 97.075)
+		(at 98.83025 122.319)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
@@ -6319,7 +6319,7 @@
 	(footprint "Connector_Hirose:Hirose_DF13-04P-1.25DSA_1x04_P1.25mm_Vertical"
 		(layer "F.Cu")
 		(uuid "44af4829-0b08-4201-9efd-8fe3f3dad73e")
-		(at 84.001 83.377 90)
+		(at 93.63 80.54 90)
 		(descr "Hirose DF13 through hole, DF13-04P-1.25DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-2P-1.25DSA%2850%29/), generated with kicad-footprint-generator")
 		(tags "connector Hirose DF13 vertical")
 		(property "Reference" "J3"
@@ -21553,7 +21553,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "feb45016-0185-4999-b234-0f0e09e4c900")
-		(at 83.9665 94.577)
+		(at 98.83025 119.821)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
@@ -21952,8 +21952,8 @@
 		(uuid "84164180-93d2-43f9-90de-c84ee6eb2aff")
 	)
 	(segment
-		(start 83.104 94.577)
-		(end 83.104 93.3695)
+		(start 97.96775 119.821)
+		(end 97.96775 118.6135)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
@@ -22008,8 +22008,8 @@
 		(uuid "a16e1380-5ac5-47d0-91ad-0bb0a0fb09f6")
 	)
 	(segment
-		(start 83.104 97.075)
-		(end 83.104 98.3305)
+		(start 97.96775 122.319)
+		(end 97.96775 123.5745)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 1)
@@ -22368,7 +22368,7 @@
 		(uuid "ac2c4d55-e24b-48eb-a3e5-7d0dfb5e0260")
 	)
 	(via
-		(at 83.104 93.3695)
+		(at 97.96775 118.6135)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -22376,7 +22376,7 @@
 		(uuid "b14dbb9c-0b8f-47c4-986c-f5e494cfd812")
 	)
 	(via
-		(at 83.104 98.3305)
+		(at 97.96775 123.5745)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -22556,32 +22556,32 @@
 		(uuid "f050faf9-dd6d-4c28-91cb-f52a28dc9545")
 	)
 	(segment
-		(start 87.0025 94.576)
-		(end 84.83 94.576)
+		(start 101.86625 119.82)
+		(end 99.69375 119.82)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "21b1409a-de8c-4b63-9371-df00223bdca1")
 	)
 	(segment
-		(start 84.83 94.576)
-		(end 84.829 94.577)
+		(start 99.69375 119.82)
+		(end 99.69275 119.821)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "84cc98e9-79b1-410f-afff-088a37b46b4a")
 	)
 	(segment
-		(start 87.0025 97.076)
-		(end 84.83 97.076)
+		(start 101.86625 122.32)
+		(end 99.69375 122.32)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 4)
 		(uuid "7db58e94-fed1-40c7-b06f-7546eeb895e2")
 	)
 	(segment
-		(start 84.83 97.076)
-		(end 84.829 97.075)
+		(start 99.69375 122.32)
+		(end 99.69275 122.319)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 4)
