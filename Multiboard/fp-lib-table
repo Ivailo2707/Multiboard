@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Prototype_Area")(type "KiCad")(uri "${KIPRJMOD}/Prototype_Area.pretty")(options "")(descr ""))
+)
