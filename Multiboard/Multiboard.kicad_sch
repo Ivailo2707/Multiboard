@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "9ed4a389-3aa7-41f1-b239-280eb7f09ef1")
 	(paper "A4")
+	(title_block
+		(title "IR-Multiboard")
+		(date "2026-02-23")
+		(company "Technological School \"Electronic Systems\"")
+	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole_Pad_MP"
 			(pin_numbers

@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "611dcc4f-2003-46a6-a8e0-a55126dc0105")
 	(paper "A3")
+	(title_block
+		(title "IR-Multiboard/FPGA")
+		(date "2026-02-23")
+		(company "Technological School \"Electronic Systems\"")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names

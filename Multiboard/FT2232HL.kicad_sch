@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "fd0117d3-5213-4fb4-969e-0c869ff4d2c7")
 	(paper "A4")
+	(title_block
+		(title "IR-Multiboard/FPGA_FTDI")
+		(date "2026-02-23")
+		(company "Technological School \"Electronic Systems\"")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x06_Socket"
 			(pin_names

@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "176ff313-046a-4bdf-ab5a-8cb30b3db87d")
 	(paper "A3")
+	(title_block
+		(title "IR-Multiboard/MCU")
+		(date "2026-02-23")
+		(company "Technological School \"Electronic Systems\"")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Socket"
 			(pin_names
