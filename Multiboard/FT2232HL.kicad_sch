@@ -2949,7 +2949,7 @@
 		(uuid "44f076cb-5fcc-4876-a38d-47400e107635")
 	)
 	(junction
-		(at 17.78 93.98)
+		(at 16.51 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f5c43d9-8eff-4f11-8e85-2172104ea271")
@@ -3013,6 +3013,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5c78bfb-1bc3-44fb-8cc8-fb33b3fbf16a")
+	)
+	(junction
+		(at 104.14 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae49e5b9-47d0-4662-84bb-32d1ef7ea593")
 	)
 	(junction
 		(at 166.37 74.93)
@@ -3087,7 +3093,7 @@
 		(uuid "f0367032-4866-474c-a2f7-09e47d4050e2")
 	)
 	(junction
-		(at 17.78 80.01)
+		(at 16.51 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f550d7e2-8680-422e-9202-cc94918b4b86")
@@ -3206,6 +3212,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 27.94) (xy 104.14 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "034cfbe8-123d-4b94-9c45-f0248bba6037")
+	)
+	(wire
+		(pts
 			(xy 58.42 111.76) (xy 38.1 111.76)
 		)
 		(stroke
@@ -3316,7 +3332,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 93.98) (xy 17.78 93.98)
+			(xy 33.02 93.98) (xy 16.51 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3526,7 +3542,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 76.2) (xy 17.78 80.01)
+			(xy 16.51 76.2) (xy 16.51 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3586,7 +3602,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 72.39) (xy 172.72 72.39)
+			(xy 161.29 72.39) (xy 175.26 72.39)
 		)
 		(stroke
 			(width 0)
@@ -3706,7 +3722,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 80.01) (xy 17.78 83.82)
+			(xy 16.51 80.01) (xy 16.51 83.82)
 		)
 		(stroke
 			(width 0)
@@ -3846,6 +3862,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 30.48) (xy 104.14 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b562bd0-7aae-42e0-96a5-c9d162decd2a")
+	)
+	(wire
+		(pts
 			(xy 100.33 49.53) (xy 110.49 49.53)
 		)
 		(stroke
@@ -3976,7 +4002,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 96.52) (xy 55.88 96.52)
+			(xy 58.42 96.52) (xy 55.88 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3986,7 +4012,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 93.98) (xy 17.78 91.44)
+			(xy 16.51 93.98) (xy 16.51 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4046,7 +4072,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 80.01) (xy 17.78 80.01)
+			(xy 25.4 80.01) (xy 16.51 80.01)
 		)
 		(stroke
 			(width 0)
@@ -4116,7 +4142,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 93.98) (xy 17.78 97.79)
+			(xy 16.51 93.98) (xy 16.51 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4466,6 +4492,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 86.36) (xy 48.26 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94b65005-38b7-42d4-94f4-14a3172c0694")
+	)
+	(wire
+		(pts
 			(xy 110.49 115.57) (xy 101.6 115.57)
 		)
 		(stroke
@@ -4696,7 +4732,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 96.52) (xy 67.31 96.52)
+			(xy 69.85 96.52) (xy 66.04 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5006,7 +5042,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 74.93) (xy 168.91 74.93)
+			(xy 166.37 74.93) (xy 167.64 74.93)
 		)
 		(stroke
 			(width 0)
@@ -5468,16 +5504,15 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 176.53 53.34 0)
+		(at 24.13 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "037cf31f-427a-4af5-9633-a61c542c4e1c")
-		(property "Reference" "#PWR0121"
-			(at 176.53 57.15 0)
+		(uuid "07129dee-4c76-4be6-ba9e-8a80667a9335")
+		(property "Reference" "#PWR0131"
+			(at 24.13 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5485,8 +5520,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3"
-			(at 176.53 48.26 0)
+		(property "Value" "3V3_FPGA"
+			(at 24.13 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5494,7 +5529,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 53.34 0)
+			(at 24.13 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5503,7 +5538,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 53.34 0)
+			(at 24.13 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5512,7 +5547,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 176.53 53.34 0)
+			(at 24.13 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5521,18 +5556,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "71c0a156-0f9d-413b-bf45-d2fcdaf52cfa")
+			(uuid "f072a7bb-bc01-4e2c-bc83-39d0b7d1c65f")
 		)
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0121")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR07")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -5615,78 +5644,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 104.14 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b9d0b78-4001-4f94-bd2e-c99548615657")
-		(property "Reference" "#PWR026"
-			(at 104.14 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 104.14 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 104.14 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b489d7e8-6bf9-4706-89d3-512c7a9de8cd")
-		)
-		(instances
-			(project ""
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 67.31 71.12 270)
 		(unit 1)
@@ -5761,16 +5718,15 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 172.72 72.39 270)
+		(at 69.85 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f29b65a-9625-44cd-b999-9e2069033a05")
-		(property "Reference" "#PWR027"
-			(at 168.91 72.39 0)
+		(uuid "13f219b1-5826-4f9b-b662-754866a4f7fb")
+		(property "Reference" "#PWR0129"
+			(at 69.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5778,17 +5734,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3"
-			(at 176.53 72.3899 90)
+		(property "Value" "3V3_FPGA"
+			(at 69.85 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 72.39 0)
+			(at 69.85 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5797,7 +5752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 72.39 0)
+			(at 69.85 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5806,7 +5761,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 172.72 72.39 0)
+			(at 69.85 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5815,18 +5770,77 @@
 			)
 		)
 		(pin "1"
-			(uuid "7266086a-efb8-4cd3-974a-ac5111ceeb66")
+			(uuid "d39a4810-e422-48bf-bccd-b6a02e3652c9")
 		)
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR027")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR0101")
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 104.14 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f32dc4a-af6c-44b7-bf4d-ce7be5c3356a")
+		(property "Reference" "#PWR026"
+			(at 104.14 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 104.14 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 104.14 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "097bc739-6a4e-4046-92cc-e8387ec22f44")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -6120,6 +6134,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 48.26 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c270f44-f38e-4b34-b367-30e4b9c013eb")
+		(property "Reference" "#PWR088"
+			(at 48.26 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 48.26 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 48.26 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "538dc201-1a6a-4e5c-a975-524d8a30ca88")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR088")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 96.52 49.53 90)
 		(unit 1)
@@ -6188,6 +6267,71 @@
 			(project "FT2232HL"
 				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
 					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 224.79 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2ff74b8a-59c5-4c58-9dae-f6061e2ca111")
+		(property "Reference" "#PWR091"
+			(at 224.79 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 224.79 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 224.79 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "908bac2a-e2b9-4801-b69a-32fe95930d65")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -6333,144 +6477,6 @@
 			(project "FT2232HL"
 				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 224.79 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "36227afd-a657-4537-b810-ef1bb387a2c7")
-		(property "Reference" "#PWR091"
-			(at 224.79 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 224.79 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 224.79 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3cc9dee7-2631-4109-967c-c2d3f3a3012f")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR091")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 26.67 156.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37bd7a34-1683-4b8c-bc0e-51348ef5313b")
-		(property "Reference" "#PWR0133"
-			(at 26.67 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 26.67 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.67 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 26.67 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 26.67 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dd41ff2e-2f79-4307-be3b-8590276cffe8")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0133")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -6766,78 +6772,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 48.26 86.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "426ee43e-71df-4d21-89da-b68a2ffd1e84")
-		(property "Reference" "#PWR0138"
-			(at 44.45 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 51.562 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 48.26 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "708c0a55-0b41-4c9e-a40d-8dfcba824267")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0138")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 199.39 62.23 0)
 		(unit 1)
@@ -6987,16 +6921,15 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 227.33 49.53 0)
+		(at 16.51 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4aca9dee-b61d-40a3-892e-fe5b30940e77")
-		(property "Reference" "#PWR0129"
-			(at 227.33 53.34 0)
+		(uuid "59e473d8-8555-45f3-8fb3-c1b8b20602a9")
+		(property "Reference" "#PWR0114"
+			(at 16.51 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7004,8 +6937,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3"
-			(at 227.33 44.45 0)
+		(property "Value" "3V3_FPGA"
+			(at 16.51 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7013,7 +6946,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 49.53 0)
+			(at 16.51 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7022,7 +6955,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 49.53 0)
+			(at 16.51 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7031,7 +6964,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 227.33 49.53 0)
+			(at 16.51 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7040,162 +6973,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c6dfee10-24dd-469b-9e6a-969d2984fbdb")
+			(uuid "eb3017c9-21c4-49f9-8227-c4aba5bdc75a")
 		)
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0129")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 48.26 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b881487-5e14-44e4-bcba-d6addcd4e406")
-		(property "Reference" "#PWR0137"
-			(at 48.26 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 48.26 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 48.26 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 48.26 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 48.26 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a13a3b83-72db-4a79-8465-708c08eb8350")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 255.27 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59da8336-5e08-4c91-b30a-8e428a1c813e")
-		(property "Reference" "#PWR0127"
-			(at 255.27 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 255.27 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 255.27 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 255.27 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 255.27 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b58ff608-5738-4ea2-a50c-673301de73bd")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0127")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR013")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -7203,7 +6986,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 17.78 97.79 0)
+		(at 16.51 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7212,7 +6995,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f3a4c3e-03a5-4ac6-8892-1141ffc37bcf")
 		(property "Reference" "#PWR0132"
-			(at 17.78 104.14 0)
+			(at 16.51 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7221,7 +7004,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 17.78 102.87 0)
+			(at 16.51 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7229,7 +7012,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 17.78 97.79 0)
+			(at 16.51 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7238,7 +7021,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 97.79 0)
+			(at 16.51 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7247,7 +7030,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 17.78 97.79 0)
+			(at 16.51 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7575,6 +7358,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 176.53 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ea0798b-0969-4b69-87c4-d3b178b37dd3")
+		(property "Reference" "#PWR0121"
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 176.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 176.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62392f78-0135-4f0c-9b8d-ca8b3e7ac0c8")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Crystal")
 		(at 87.63 62.23 270)
 		(unit 1)
@@ -7650,6 +7498,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 104.14 30.48 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70b5c9a0-a7f9-4f31-a83a-299493bd42d3")
+		(property "Reference" "#FLG011"
+			(at 106.045 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 107.95 30.4799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 104.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6e4be66b-9afc-46b3-9277-a31d8930a927")
+		)
+		(instances
+			(project ""
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#FLG011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 217.17 125.73 0)
 		(unit 1)
@@ -7657,8 +7572,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72c83c07-98ac-4e3d-b086-b0798994d338")
+		(uuid "7503f755-b3c2-4c15-aaa2-8cfa2b1663db")
 		(property "Reference" "#PWR094"
 			(at 217.17 129.54 0)
 			(effects
@@ -7668,7 +7582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3"
+		(property "Value" "3V3_FPGA"
 			(at 217.17 120.65 0)
 			(effects
 				(font
@@ -7704,7 +7618,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6af514e3-4542-4ed3-90a1-d7b3d5c59582")
+			(uuid "ed2948ca-a830-46e4-963a-670844962b5d")
 		)
 		(instances
 			(project "Multiboard"
@@ -7804,78 +7718,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 69.85 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b7e1253-7eeb-4398-964a-8c061c51ed03")
-		(property "Reference" "#PWR0135"
-			(at 69.85 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 69.85 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 69.85 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 69.85 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 69.85 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ae17be1-2608-4b34-96cd-0b1c74fb81bc")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0135")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 181.61 120.65 90)
 		(unit 1)
@@ -7950,7 +7792,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 17.78 87.63 0)
+		(at 16.51 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7959,7 +7801,7 @@
 		(fields_autoplaced yes)
 		(uuid "85d3c26a-89f3-46a1-98d3-da8df25aa296")
 		(property "Reference" "C29"
-			(at 21.59 86.3599 0)
+			(at 20.32 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7968,7 +7810,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 21.59 88.8999 0)
+			(at 20.32 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7977,7 +7819,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 18.7452 91.44 0)
+			(at 17.4752 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7986,7 +7828,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 87.63 0)
+			(at 16.51 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7995,7 +7837,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 17.78 87.63 0)
+			(at 16.51 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8019,150 +7861,6 @@
 			(project "FT2232HL"
 				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 17.78 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8ffdd5bc-e7da-4cb3-82ed-72f376e3ef39")
-		(property "Reference" "#PWR0136"
-			(at 17.78 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 17.78 72.898 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 17.78 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 17.78 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 17.78 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb068950-0d92-4fb8-93e0-9df7d108b13a")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0136")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 63.5 20.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90fed2ed-57ed-4014-a217-493705934be8")
-		(property "Reference" "#PWR030"
-			(at 63.5 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "1V8"
-			(at 63.5 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 63.5 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 63.5 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "963a079f-0b2e-4b85-91d7-ee0695afd718")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -9064,72 +8762,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 233.68 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad010919-5713-41f8-9efc-1bfc7284292d")
-		(property "Reference" "#PWR093"
-			(at 233.68 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 233.68 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 233.68 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 233.68 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 233.68 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3bcc1494-c48d-4256-8d66-53aeee8cb0c1")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR093")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 245.11 93.98 0)
 		(unit 1)
@@ -9203,8 +8835,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b15c2402-1005-4279-9329-b1f0152e71b9")
+		(uuid "b0814b31-cbbe-4b79-8d91-3f150c33d04a")
 		(property "Reference" "#PWR0120"
 			(at 171.45 48.26 0)
 			(effects
@@ -9214,7 +8845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "1V8"
+		(property "Value" "1V8_FPGA"
 			(at 171.45 39.37 0)
 			(effects
 				(font
@@ -9250,18 +8881,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0af44b94-f67f-4bd3-bc4c-4124a76fd8f0")
+			(uuid "44663eac-6a6a-4753-aba4-020f2f6956a8")
 		)
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
 					(reference "#PWR0120")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -9341,6 +8966,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 26.67 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b619fc47-eef5-43cf-ba3a-06494f697bba")
+		(property "Reference" "#PWR0133"
+			(at 26.67 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 26.67 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 26.67 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "50e7145e-04de-4fe1-b330-b6737fefaa33")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 181.61 97.79 90)
 		(unit 1)
@@ -9414,8 +9104,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 167.64 74.93 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba6e21fd-7753-4b57-ab4e-a75c6b6a250d")
+		(property "Reference" "#PWR028"
+			(at 163.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "1V8_FPGA"
+			(at 172.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 167.64 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20ff68d9-32e3-40b4-88a9-0f57e98613ee")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 63.5 96.52 270)
+		(at 62.23 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9424,7 +9179,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbad8ffa-0c4c-4945-961c-31ea40656df0")
 		(property "Reference" "R47"
-			(at 63.5 90.17 90)
+			(at 62.23 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9432,7 +9187,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 63.5 92.71 90)
+			(at 62.23 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9440,7 +9195,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 94.742 90)
+			(at 62.23 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9449,7 +9204,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 96.52 0)
+			(at 62.23 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9458,7 +9213,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 63.5 96.52 0)
+			(at 62.23 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9558,6 +9313,71 @@
 			(project "FT2232HL"
 				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
 					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 255.27 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf31acd7-57be-45ca-85d0-e92c7510933e")
+		(property "Reference" "#PWR0127"
+			(at 255.27 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 255.27 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 255.27 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 255.27 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2480bbd4-686f-458c-96c2-f389447e97e1")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -9710,16 +9530,15 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 24.13 107.95 0)
+		(at 63.5 20.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c478ddc9-6abb-4c0d-9b19-904ac06cc2ab")
-		(property "Reference" "#PWR0131"
-			(at 24.13 111.76 0)
+		(uuid "c6581426-3dd6-4b44-90c9-1b90070cbecd")
+		(property "Reference" "#PWR030"
+			(at 63.5 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9727,8 +9546,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3"
-			(at 24.13 102.87 0)
+		(property "Value" "1V8_FPGA"
+			(at 63.5 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9736,7 +9555,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 107.95 0)
+			(at 63.5 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9745,7 +9564,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 107.95 0)
+			(at 63.5 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9754,7 +9573,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 24.13 107.95 0)
+			(at 63.5 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9763,90 +9582,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3cce7baf-0b3c-458b-be24-25a5146ddd7e")
+			(uuid "9f30490b-7a3e-472a-bd8a-20fe4ac55b95")
 		)
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0131")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 227.33 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c54a2fe5-6c21-497d-9fd3-85e05cfafb7a")
-		(property "Reference" "#PWR0128"
-			(at 227.33 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 227.33 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 227.33 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "24784d2b-bb58-48ef-b582-6d3790102bc1")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR0128")
-					(unit 1)
-				)
-			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR012")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -9996,6 +9737,71 @@
 			(project "FT2232HL"
 				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
 					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 227.33 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db3068ed-5129-4c6d-9690-2bd3a82f8f94")
+		(property "Reference" "#PWR090"
+			(at 227.33 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 227.33 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 227.33 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e4f013b-e20e-4966-9006-c3dc01e2678d")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -10222,16 +10028,15 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 168.91 74.93 270)
+		(at 233.68 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e2478319-2e85-4d79-a61e-fad7bed1c17b")
-		(property "Reference" "#PWR028"
-			(at 165.1 74.93 0)
+		(uuid "e2f14327-7e79-462f-bdbf-e2d62d6bd151")
+		(property "Reference" "#PWR093"
+			(at 233.68 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10239,17 +10044,16 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "1V8"
-			(at 172.72 74.9299 90)
+		(property "Value" "3V3_FPGA"
+			(at 233.68 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 74.93 0)
+			(at 233.68 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10258,7 +10062,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 74.93 0)
+			(at 233.68 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10267,7 +10071,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 168.91 74.93 0)
+			(at 233.68 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10276,18 +10080,142 @@
 			)
 		)
 		(pin "1"
-			(uuid "323a05c4-a274-4f5b-83c7-a091a29f10ff")
+			(uuid "c498a079-785e-43bb-8d46-4823d36eed2f")
 		)
 		(instances
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
-					(reference "#PWR028")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
-			(project "FT2232HL"
-				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
-					(reference "#PWR0102")
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 175.26 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e58be60b-64a0-4d41-8ed3-59110143e12c")
+		(property "Reference" "#PWR027"
+			(at 171.45 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 180.34 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 175.26 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dbda1b56-1adf-48eb-a8ce-f2fc2ecbdcab")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 227.33 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e59c209f-b213-44cc-a5e3-f9890d41f9ac")
+		(property "Reference" "#PWR089"
+			(at 227.33 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 227.33 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e0c8dea-dbd0-4e1f-bca1-8ad8d2b15dae")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -11010,6 +10938,71 @@
 			(project "FT2232HL"
 				(path "/fd0117d3-5213-4fb4-969e-0c869ff4d2c7"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 53.34 86.36 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffb4c4ef-c04f-4eb8-8ffd-75d9e2862152")
+		(property "Reference" "#PWR0128"
+			(at 49.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3_FPGA"
+			(at 58.42 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff2d5ccf-10c0-4bcb-9382-3e0dff556169")
+		)
+		(instances
+			(project "Multiboard"
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8"
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
