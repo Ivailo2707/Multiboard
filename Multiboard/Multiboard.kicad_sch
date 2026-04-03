@@ -224,8 +224,8 @@
 		(at 140.97 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
+		(in_bom yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39841a5d-9170-494b-b4fa-4d75b7c5a043")
@@ -266,6 +266,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 140.97 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
 			(at 140.97 92.71 0)
 			(effects
 				(font
@@ -357,8 +366,8 @@
 		(at 140.97 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
+		(in_bom yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cb0109f-3ab3-4de9-9640-4f22a98d4cfa")
@@ -399,6 +408,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 140.97 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
 			(at 140.97 66.04 0)
 			(effects
 				(font
@@ -556,8 +574,8 @@
 		(at 140.97 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
+		(in_bom yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8632a648-7423-4889-b529-a79cc6b75f85")
@@ -606,6 +624,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 140.97 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "MP"
 			(uuid "d5421fa7-72ca-4b13-b6d8-e4d52f2cba1e")
 		)
@@ -623,8 +650,8 @@
 		(at 140.97 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
+		(in_bom yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6bc8162-4c74-4ac1-857e-76fe22ba1c16")
@@ -665,6 +692,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 140.97 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
 			(at 140.97 105.41 0)
 			(effects
 				(font

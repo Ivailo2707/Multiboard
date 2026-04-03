@@ -22116,6 +22116,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f16408db-0ac2-4931-81b4-12e42dc7a6a9")
 		)
@@ -22178,6 +22187,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 251.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 251.46 33.02 0)
 			(effects
 				(font
@@ -22585,6 +22603,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 127 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11a877e1-f8e3-4da2-8e23-6f901067963c")
 		)
@@ -22719,6 +22746,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83ceeb58-7278-491f-86e3-ddf30d7afccb")
 		)
@@ -22845,6 +22881,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 91.44 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C95177"
+			(at 91.44 254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23120,6 +23165,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 274.32 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa4faff0-b24f-403d-98c1-73388b2148c6")
 		)
@@ -23141,7 +23195,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "229858d5-6ae1-43bf-bb98-840f784175db")
@@ -23180,6 +23234,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 269.24 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
 			(at 269.24 64.77 0)
 			(effects
 				(font
@@ -23437,6 +23500,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b726165c-e643-463b-ba16-bd0acee15186")
 		)
@@ -23507,6 +23579,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 261.62 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68aa51de-3287-4364-a086-770a7b93af6d")
 		)
@@ -23569,6 +23650,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 391.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 391.16 134.62 0)
 			(effects
 				(font
@@ -23664,7 +23754,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35ec3448-b81d-43bd-bb16-28794c8568c8")
@@ -23721,6 +23811,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 260.35 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
 			(at 260.35 199.39 0)
 			(effects
 				(font
@@ -23790,6 +23889,15 @@
 		)
 		(property "Description" "Inductor with iron core"
 			(at 138.43 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C20345"
+			(at 138.43 207.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23931,6 +24039,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aa31dcb9-58cc-44cd-89bf-107221a1a62b")
 		)
@@ -24008,6 +24125,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 121.92 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b66a6833-e64e-4b00-8df0-b422a5904cb8")
 		)
@@ -24069,6 +24195,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24210,6 +24345,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 358.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22c659c0-9579-43d3-b588-dd379855e6d0")
 		)
@@ -24279,6 +24423,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
 			(at 121.92 107.95 0)
 			(effects
 				(font
@@ -24357,6 +24510,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2907044"
+			(at 207.01 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9e17e468-e24c-4691-b5f3-21b8fc8ce45b")
 		)
@@ -24419,6 +24581,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 383.54 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 383.54 45.72 0)
 			(effects
 				(font
@@ -24561,6 +24732,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C20546"
+			(at 77.47 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "4d75c3b0-7537-4c60-872e-d6e820d1f236")
 		)
@@ -24636,6 +24816,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
 			(at 121.92 149.86 0)
 			(effects
 				(font
@@ -24779,6 +24968,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C86295"
+			(at 104.14 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c8be03e-0fe8-4d30-9e8d-e4d28698f07e")
 		)
@@ -24841,6 +25039,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 248.92 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 248.92 137.16 0)
 			(effects
 				(font
@@ -24984,6 +25191,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C19702"
+			(at 52.07 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e83c4327-3cb5-477c-af63-631a67e161a6")
 		)
@@ -25045,6 +25261,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 31.75 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 31.75 207.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25186,6 +25411,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
 			(at 121.92 160.02 0)
 			(effects
 				(font
@@ -25394,6 +25628,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C20345"
+			(at 115.57 254 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9e9415b-ffe9-4aed-9869-20b090683d34")
 		)
@@ -25463,6 +25706,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
 			(at 121.92 139.7 0)
 			(effects
 				(font
@@ -25558,7 +25810,7 @@
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97d0e6f3-9c98-4d7f-bf9f-2959b75665f8")
@@ -26096,6 +26348,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 325.12 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "112"
 			(uuid "f4d7004d-abda-44fc-94aa-22f1d61b53c4")
 		)
@@ -26586,6 +26847,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2907044"
+			(at 218.44 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "485bd363-a9f5-4c12-9777-e4af3224b5a1")
 		)
@@ -26618,7 +26888,7 @@
 				)
 			)
 		)
-		(property "Value" "FAN1112"
+		(property "Value" "AMS1117-1.2"
 			(at 53.34 248.666 0)
 			(effects
 				(font
@@ -26645,6 +26915,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 53.34 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14529"
 			(at 53.34 251.46 0)
 			(effects
 				(font
@@ -26795,6 +27074,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 191.77 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3d5bde6-6441-4d83-81f0-5f59a0278417")
 		)
@@ -26864,6 +27152,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
 			(at 121.92 129.54 0)
 			(effects
 				(font
@@ -27090,7 +27387,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2893375-6a0f-4283-8592-84046b7fb6b6")
@@ -27129,6 +27426,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 87.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
 			(at 87.63 62.23 0)
 			(effects
 				(font
@@ -27321,6 +27627,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C95843"
+			(at 189.23 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46bee90b-baac-42ca-9a4e-57eb9bc8bcfe")
 		)
@@ -27384,6 +27699,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 284.48 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2988369"
 			(at 284.48 218.44 0)
 			(effects
 				(font
@@ -27499,6 +27823,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 378.46 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 378.46 134.62 0)
 			(effects
 				(font
@@ -27635,6 +27968,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 137.16 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27843,6 +28185,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C19702"
+			(at 34.29 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d8f7883-0bc7-4832-ab55-f9dd35633ef6")
 		)
@@ -27904,6 +28255,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 203.2 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C114662"
+			(at 203.2 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27973,6 +28333,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 217.17 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 217.17 41.91 0)
 			(effects
 				(font
@@ -28108,6 +28477,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 204.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 204.47 41.91 0)
 			(effects
 				(font
@@ -28318,6 +28696,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C100042"
+			(at 214.63 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dbf9a820-49fd-4ead-80ca-cc7d0d03366d")
 		)
@@ -28379,6 +28766,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 137.16 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28448,6 +28844,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 238.76 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 238.76 33.02 0)
 			(effects
 				(font
@@ -28543,7 +28948,7 @@
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccc7c257-d38f-4da3-9270-2578d511a9f1")
@@ -29081,6 +29486,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 219.71 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "112"
 			(uuid "f4d7004d-abda-44fc-94aa-22f1d61b53c5")
 		)
@@ -29580,6 +29994,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 21.59 214.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "44d0e8fb-1f0b-4bf9-a0e2-27688c5014e6")
 		)
@@ -29714,6 +30137,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C114662"
+			(at 203.2 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "60204b58-ae6a-4582-a12c-10e85082001f")
 		)
@@ -29784,6 +30216,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 370.84 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d2ddc36-6a27-477c-96f2-acfb53d06714")
 		)
@@ -29806,7 +30247,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4be9459-fb72-42d4-a75d-8fc3ad58e606")
@@ -30344,6 +30785,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 325.12 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "112"
 			(uuid "f4d7004d-abda-44fc-94aa-22f1d61b53c6")
 		)
@@ -30841,6 +31291,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 121.92 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a87e5acc-80da-43b1-b8a5-d31668ec9b89")
 		)
@@ -30901,6 +31360,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 107.95 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C95177"
+			(at 107.95 207.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31043,6 +31511,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C86295"
+			(at 114.3 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdef17e7-24af-448a-97f1-e01008811219")
 		)
@@ -31104,6 +31581,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 137.16 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 137.16 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31198,7 +31684,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5cc5984-7985-495d-be69-b92368908cf0")
@@ -31736,6 +32222,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 154.94 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "112"
 			(uuid "f4d7004d-abda-44fc-94aa-22f1d61b53c7")
 		)
@@ -32226,6 +32721,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C105588"
+			(at 80.01 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a4a47177-8acf-422b-8055-66a463838a32")
 		)
@@ -32288,6 +32792,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 200.66 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
 			(at 200.66 252.73 0)
 			(effects
 				(font
@@ -32431,6 +32944,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 403.86 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a6844b9-0fc6-4d1c-b073-0727470c7bf2")
 		)
@@ -32500,6 +33022,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
 			(at 121.92 118.11 0)
 			(effects
 				(font
@@ -32711,6 +33242,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C7519"
+			(at 243.84 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "24f31be4-3a57-467e-9fe2-1e1d9b2a2173")
 		)
@@ -32785,6 +33325,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 177.8 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C19702"
 			(at 177.8 252.73 0)
 			(effects
 				(font

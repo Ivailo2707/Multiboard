@@ -459,6 +459,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C20345"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4efbaeee-fbe1-4edf-a45b-56cf63351f03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/36116371-2b78-493f-8348-c077b9e85586")
 		(sheetname "/FPGA/")
@@ -603,6 +616,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "989de36e-003e-4e5a-8f2c-afbc3a5de359")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/420a9448-5a66-4502-8d8d-239799346dfe")
 		(sheetname "/FPGA/")
@@ -741,6 +767,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3860ff7c-c1e4-4aee-8c94-c29b1a25733b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -945,6 +984,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7a3f462-cf2c-4945-b0cf-2a3cb252bc67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/b2f1d8ce-89cd-422e-a11e-9eb0374ec842")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -1141,6 +1193,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b4cc2c4-c520-4da8-85d5-2dc4be988282")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1345,6 +1410,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa1284fa-0d31-4729-af3c-22b7ab7218d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/0dc64ddb-30d9-469e-be5d-a8e62d399668")
 		(sheetname "/FPGA/")
@@ -1483,6 +1561,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C913904"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "127c2405-bd88-4f42-8cf8-fc828216b32c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1687,6 +1778,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4515bc6-3bb6-4ef0-8924-54f29d13eb7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/685af780-31ba-4b27-9eb8-67f1546b33e6")
 		(sheetname "/FPGA/")
@@ -1827,6 +1931,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6987a4a5-22a8-4815-8e61-fd6f48370fdd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2031,6 +2148,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9aa46b57-3641-4678-849c-12af59fd2573")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/1ddf822c-c363-440b-a7a2-606525322dc3")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -2231,6 +2361,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ad6e151-80c4-48c5-a688-df197e0b6aaa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/b91879d3-8c08-47b8-a885-381e74774442")
 		(sheetname "/FPGA/")
@@ -2369,6 +2512,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b1737ed-049f-44a8-a28f-db348ad04f4b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2515,6 +2671,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26f019e3-c048-4d3e-a27b-c176a8d3b450")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/ed9beadc-fc3d-4604-ab80-53ac0dabd6b7")
 		(sheetname "/FPGA/FTDI/")
@@ -2655,6 +2824,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6f330d0-210c-4a08-8aea-4e472c96dee5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2932,6 +3114,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C86295"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbd36619-6c25-4f6c-a714-72d5d01044c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/de6604b0-c78a-4ead-8062-a2f65b8b03ae")
 		(sheetname "/FPGA/")
@@ -3070,6 +3265,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c31e493-854a-4798-a381-b87393ffa4cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3274,6 +3482,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b44e2752-5757-4074-a226-cf4169cc032d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/5f7ea35a-85f8-47f7-b602-b662c2697e87")
 		(sheetname "/FPGA/FTDI/")
@@ -3412,6 +3633,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "694f2fa8-a229-4529-b31b-30acb0f449af")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3616,6 +3850,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41c73a87-aa13-456d-84fe-5e15f778c5e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/7a70006c-989d-418e-9b00-7932397a2a6f")
 		(sheetname "/FPGA/")
@@ -3754,6 +4001,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0bb8b1c1-5c71-47d6-9684-802520da4062")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3905,6 +4165,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "51604d10-5fe1-4662-aed8-982584f244b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63415776-8240-4039-9e88-00c85b4d2737")
 			(effects
 				(font
 					(size 1 1)
@@ -4134,6 +4407,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C20345"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4701983-fb92-4cce-876e-24b8fe298776")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/8ee391b3-49f2-441b-ac06-bfd3970de8cf")
 		(sheetname "/FPGA/")
@@ -4274,6 +4560,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C19702"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dff72787-a86c-495b-ab7f-b5997882ac4f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4420,6 +4719,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12d211da-8e6e-46fd-9d46-3f96f539d2ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/3d3e613b-2519-4f61-b53a-30381b2ab777")
 		(sheetname "/FPGA/")
@@ -4558,6 +4870,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C19666"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1480cc8a-0e78-4f35-9604-546214ce753b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4762,6 +5087,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfaa4128-2623-4a6d-9205-99d49d290a47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/bbad8ffa-0c4c-4945-961c-31ea40656df0")
 		(sheetname "/FPGA/FTDI/")
@@ -4900,6 +5238,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C19702"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc185544-6d40-40d6-8f76-a433e4fdc9e5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5046,6 +5397,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f2bd071-edbf-410b-8f85-600058445f0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/dcda8a61-f3e8-460d-80b0-6ec99da647b6")
 		(sheetname "/FPGA/FTDI/")
@@ -5183,6 +5547,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25d756e9-19d5-4910-bf39-fa893627cf48")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5487,6 +5864,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C519375"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc672133-9d9e-48de-a11e-7a0cb3695642")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/69d251c4-e116-4c64-ba6b-726806b65fa9")
 		(sheetname "/MCU/")
@@ -5700,6 +6090,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20eb9c9c-0ea8-4c91-8c94-69fe123bf46a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/4753b98f-0ec9-44be-a12b-fdcf35ecfccc")
 		(sheetname "/FPGA/")
@@ -5889,6 +6292,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a28e0e73-9871-4153-9f37-625705d8c3d1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6089,6 +6505,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b3242d8-c124-4e9b-8a5f-fb6e733701b3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6342,6 +6771,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf51d065-61d0-454e-8bf1-400173779e3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2976348"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16699c8c-09e1-4aa6-8fc4-12e30a2075af")
 			(effects
 				(font
 					(size 1 1)
@@ -6705,6 +7147,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4566c68d-c989-4054-921f-527b716ea545")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C94355"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32ef8191-7942-471b-8fa9-6cb7dac1764d")
 			(effects
 				(font
 					(size 1 1)
@@ -7659,6 +8114,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaf8aa47-6e4c-4446-a89c-2107ff4b1254")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/14e21956-104c-4759-a070-3a0b8b91b87e")
 		(sheetname "/MCU/MCU_Level_Shifters/")
 		(sheetfile "MCU_level_shifters.kicad_sch")
@@ -7930,6 +8398,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "332627c7-f9cd-4aa1-8b49-2f067cd1d328")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/806f0229-07d8-4cbd-b0d3-3b7837272e9f")
 		(sheetname "/MCU/")
@@ -8089,6 +8570,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8bd98fe-db1c-4e8c-aeb7-66b62d051fb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/39841a5d-9170-494b-b4fa-4d75b7c5a043")
 		(sheetname "/")
@@ -8201,6 +8695,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b0e94f4-1815-4675-8ae2-f56f003b56a1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8405,6 +8912,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79102ae8-fb93-41e4-8dc6-2c94e4215157")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/9c7d8082-584c-4f93-aac3-97a048b1f52c")
 		(sheetname "/FPGA/")
@@ -8545,6 +9065,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "feca88ea-5a1a-4181-a346-98c969a128f6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8824,6 +9357,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32eff24e-13c0-4913-b7d0-5584dcc9e16a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/a05d2503-58c2-4483-a6d1-97db09affca8")
 		(sheetname "/FPGA/")
@@ -9013,6 +9559,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8d8f732-0cee-480e-969c-d13f0ce0a429")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9217,6 +9776,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C38523"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1690a11f-4402-4b62-b19d-eb65955ca730")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/6f7ca4e8-68a2-4f6d-a40a-078623dc8838")
 		(sheetname "/MCU/")
@@ -9417,6 +9989,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95871b87-5a20-4b28-9db3-ef9c728f1010")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/45e85205-7377-4d7e-a090-8ff90ae4c60f")
 		(sheetname "/FPGA/")
@@ -9555,6 +10140,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0615f8e-8f4f-47af-bd31-9a0af6fd291d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9759,6 +10357,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9ed298e-c5c9-4815-9a09-267ced5ead23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/bcf17c72-1a94-474e-b3c4-f96087e60985")
 		(sheetname "/FPGA/")
@@ -9897,6 +10508,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C114662"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "062b35a3-df32-432d-8415-714e8e6dcd6b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10042,11 +10666,24 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2264668-06bf-4b9c-b31f-9b166dd30a8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/2f2a3177-9177-449b-bf93-39c191e33977")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 5.3 -2.3)
 			(end -1.55 -2.3)
@@ -10549,6 +11186,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C20345"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54edee45-c0fc-44c9-9f45-9bdcf7b8d32a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/ee076ad6-e559-44ca-a3fd-14579713118b")
 		(sheetname "/FPGA/FTDI/")
@@ -10693,6 +11343,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5c8fac9-8bd3-4398-a616-7fbea9246a0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/b4eaa70b-a802-4ecf-b604-5a10e1a244fa")
 		(sheetname "/FPGA/FTDI/")
@@ -10831,6 +11494,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0263702f-13f3-4a79-9deb-c5b0c41b2ffe")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11033,6 +11709,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2988369"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3820ae8d-4d37-4827-ae69-abdd5beed351")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11455,11 +12144,24 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9e6ffb5-a37a-4f06-8ac7-7fa78cef20f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/6c76a3a8-7655-4a72-90e0-85a96fa6c98c")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -12000,6 +12702,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65534cf6-be99-4279-948f-9f944f4cb428")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C27882"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e57c6b2-f1e5-4767-9d6e-1131edc22a05")
 			(effects
 				(font
 					(size 1 1)
@@ -12978,6 +13693,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5705546f-ffa5-4250-8272-ed58c02e7caa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/2b8e1aa3-9a54-4542-93d3-ddda1068b5e5")
 		(sheetname "/MCU/")
@@ -13200,6 +13928,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe091a59-594d-4bd3-b169-f86c7d5330c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/997fb6e8-6587-402d-9361-bf861a633271")
 		(sheetname "/MCU/")
@@ -13347,14 +14088,14 @@
 			)
 		)
 	)
-	(footprint "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "F.Cu")
 		(uuid "52abe777-6815-4922-9083-5684600f84ab")
 		(at 168.008 86.1565 90)
-		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
-		(tags "diode handsolder")
+		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
+		(tags "SOD-323F")
 		(property "Reference" "D3"
-			(at -0.0655 -1.229 90)
+			(at -0.014 -5.128 90)
 			(layer "F.SilkS")
 			(uuid "c4d94946-e2ea-4d7a-9da9-ebf1f27faf27")
 			(effects
@@ -13365,7 +14106,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 0 1.43 90)
+			(at 0.1 1.9 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "90bd17b8-20bb-4b77-9c1b-9fa8a8d33561")
@@ -13378,6 +14119,7 @@
 		)
 		(property "Datasheet" "~"
 			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d085fb57-c5a1-4f8e-b0f9-10b001397d9a")
@@ -13390,6 +14132,7 @@
 		)
 		(property "Description" "Schottky diode"
 			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1003bb72-8b32-4517-a18a-f04a2bc31c79")
@@ -13400,145 +14143,197 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91d05995-93b5-4839-a6d2-e88eb0c3486c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/1af2405d-3ec6-47c6-9ab1-edae2eabe351")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 0.8 -0.735)
-			(end -1.66 -0.735)
+			(start -1.61 -0.85)
+			(end 1.05 -0.85)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ae136613-8a99-4a98-adc0-e40793d2aa41")
+			(uuid "1fe6edc3-2d4f-4f58-b737-e775461ce2b4")
 		)
 		(fp_line
-			(start -1.66 -0.735)
-			(end -1.66 0.735)
+			(start -1.61 -0.85)
+			(end -1.61 0.85)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "41d4c20e-daf8-4a2f-9d7d-445a5343f72b")
+			(uuid "ea6d71f2-a3dd-4995-ad31-43dfc575558b")
 		)
 		(fp_line
-			(start -1.66 0.735)
-			(end 0.8 0.735)
+			(start -1.61 0.85)
+			(end 1.05 0.85)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0a3866e9-8066-48b9-8058-e06e043a6fd3")
+			(uuid "151a345f-5c91-423e-ba5d-3d13de86df76")
 		)
 		(fp_line
-			(start 1.65 -0.73)
-			(end 1.65 0.73)
+			(start 1.6 -0.95)
+			(end 1.6 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "05316f50-e359-4587-8f5f-76609390cd7b")
+			(uuid "8945c1d4-fe79-462b-9665-c5c29788befa")
 		)
 		(fp_line
-			(start -1.65 -0.73)
-			(end 1.65 -0.73)
+			(start -1.6 -0.95)
+			(end 1.6 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fb4ea7ea-443c-43dc-939f-c1d708ec6728")
+			(uuid "16c346a5-379e-46d0-a2d5-3f28e0153e98")
 		)
 		(fp_line
-			(start 1.65 0.73)
-			(end -1.65 0.73)
+			(start -1.6 -0.95)
+			(end -1.6 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "39247c0b-74d9-441b-a917-5c3b3ddf39fb")
+			(uuid "82f0a43a-7032-4104-9fcb-4406d008a32a")
 		)
 		(fp_line
-			(start -1.65 0.73)
-			(end -1.65 -0.73)
+			(start -1.6 0.95)
+			(end 1.6 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bd1ae819-02a8-442e-8e17-c37a513117ec")
+			(uuid "c6526f02-20e2-4562-ba2c-0565043d7da0")
 		)
 		(fp_line
-			(start 0.8 -0.4)
-			(end -0.5 -0.4)
+			(start 0.9 -0.7)
+			(end 0.9 0.7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8400a8ae-c348-4e6b-a6c5-a212cee36232")
+			(uuid "977d5cd4-a3dd-4966-b95a-47c00f7aab18")
 		)
 		(fp_line
-			(start -0.5 -0.4)
-			(end -0.8 -0.1)
+			(start -0.9 -0.7)
+			(end 0.9 -0.7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6033c7db-f790-40ce-953f-acbb405843ca")
+			(uuid "8e7fd51f-6f5c-44d8-aa86-214c00a358c2")
 		)
 		(fp_line
-			(start -0.8 -0.1)
-			(end -0.8 0.4)
+			(start 0.2 -0.35)
+			(end 0.2 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b95227b0-310d-4c64-9536-7c117c3c0232")
+			(uuid "5970f176-fba3-4a0a-aad0-c4e9a5f617f7")
 		)
 		(fp_line
-			(start 0.8 0.4)
-			(end 0.8 -0.4)
+			(start -0.3 -0.35)
+			(end -0.3 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "087ac7d5-7450-415a-a584-85765cd1b676")
+			(uuid "f600ca5b-fd86-454e-a2b7-cb9632e5270f")
 		)
 		(fp_line
-			(start -0.8 0.4)
-			(end 0.8 0.4)
+			(start 0.2 0)
+			(end 0.45 0)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7c7eb80e-b880-4bf1-aa9e-6908a278a8b8")
+			(uuid "cd0acfb7-45fe-43f3-aaec-5e0c75aed9ea")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(uuid "126155ec-b68f-4f8d-91be-7c9fc630ce7f")
-			(effects
-				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
-				)
+		(fp_line
+			(start -0.3 0)
+			(end 0.2 -0.35)
+			(stroke
+				(width 0.1)
+				(type solid)
 			)
+			(layer "F.Fab")
+			(uuid "3821dae7-12ba-4bab-b249-97e71c94824e")
+		)
+		(fp_line
+			(start -0.3 0)
+			(end -0.5 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c5bae455-02d7-4256-9648-b214f953c612")
+		)
+		(fp_line
+			(start 0.2 0.35)
+			(end -0.3 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e2711cd0-9067-4448-a0e0-7ef99714dfde")
+		)
+		(fp_line
+			(start 0.9 0.7)
+			(end -0.9 0.7)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e80f7e75-7ec7-4eb7-9496-2c058f53e740")
+		)
+		(fp_line
+			(start -0.9 0.7)
+			(end -0.9 -0.7)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "792fa61c-a0ff-46b4-94da-16bd6a6ce6e2")
 		)
 		(pad "1" smd roundrect
-			(at -0.875 0 90)
-			(size 1.05 0.95)
+			(at -1.1 0 90)
+			(size 0.5 0.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net 10 "Net-(D2-K)")
@@ -13547,8 +14342,8 @@
 			(uuid "706f74ed-ade7-40ba-8c68-3b9521bce19d")
 		)
 		(pad "2" smd roundrect
-			(at 0.875 0 90)
-			(size 1.05 0.95)
+			(at 1.1 0 90)
+			(size 0.5 0.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net 9 "3V3_MCU")
@@ -13557,7 +14352,7 @@
 			(uuid "ae17847c-ed08-4b1c-958a-09d3d1a73cd3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0603_1608Metric.step"
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13618,6 +14413,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa1b81bd-fe85-4950-988e-a777a7c15166")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13760,6 +14568,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43be3792-2f6c-4955-9fd8-a8a87a8d6aa0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15463,6 +16284,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C7528752"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92f435ea-9949-4179-b3f4-6a3a09dd6dc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/b08eaab7-ed97-47a9-9d3a-ecc9dda63fff")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
@@ -15822,6 +16656,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54cde99d-fac7-40ae-95dc-4d0374468497")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/41ca5cf0-a3c0-4a0c-8391-3499cb598dec")
 		(sheetname "/FPGA/")
@@ -16028,6 +16875,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cc6ff71-fdb1-4d5c-855d-6a61f6de510b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/619d87bf-bc78-40ed-bc15-2045f773a31d")
 		(sheetname "/FPGA/")
@@ -16217,6 +17077,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cac8b3cf-4ffa-43dc-ad71-eef799fdf10c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16517,6 +17390,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3b24af6-6a0a-44a6-b382-e8061017c1ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/1f9ee72f-9de6-40ce-a69b-9756bbfd9d06")
 		(sheetname "/FPGA/")
@@ -16655,6 +17541,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57b93bab-dfdc-4f0a-8b81-a94b7c329d01")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16892,6 +17791,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef90c5a0-366d-4c6f-b281-b779b8976dcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0cede0f8-832e-4f61-815f-8ed404994c15")
 			(effects
 				(font
 					(size 1 1)
@@ -17166,6 +18078,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4dee27ea-f48d-4eb5-8d67-e81c2918217f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/85e28300-c3d4-40fb-b0a4-85e97bd34b03")
 		(sheetname "/FPGA/")
@@ -17355,6 +18280,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5ea7936-b87f-4f78-8bae-1ffaba2838aa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17558,11 +18496,24 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a840012b-84bb-453c-ba3b-518d65eb893d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/229858d5-6ae1-43bf-bb98-840f784175db")
 		(sheetname "/FPGA/")
 		(sheetfile "FPGA.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 49.64)
 			(end 3.92 49.64)
@@ -18221,6 +19172,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C20345"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a87c314-078d-4ae1-8cbd-e5aa33414989")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/2508f39f-66d6-43ad-b5b4-cea115f83b6d")
 		(sheetname "/FPGA/FTDI/")
@@ -18363,6 +19327,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "404ab753-559f-4797-8441-5920867fac2f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18653,6 +19630,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "157f84b2-a6d7-4e17-b541-919e99a54a85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/dc03c134-32ea-4ed6-b49b-a3c46994475f")
 		(sheetname "/FPGA/")
@@ -18841,6 +19831,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "567f2348-f84a-4936-998b-ecf7efdbda7b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19145,6 +20148,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C49326300"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d94b08b-75e5-4f93-8c43-a6c69812015c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/f5c2aa10-d014-452e-a49c-abdcdf8da392")
 		(sheetname "/FPGA/FTDI/")
@@ -19287,6 +20303,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb90e9a7-98f8-4772-b7f3-5b1324893daf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/b96ec886-8294-4201-84c2-1ddd17217526")
 		(sheetname "/FPGA/FTDI/")
@@ -19425,6 +20454,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a0ab11c-4f05-4b30-914a-7a0d4f2541b6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19642,6 +20684,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d34c019f-00cf-4696-a3d9-e9598c534b83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/f39970eb-3e1f-4fc5-a24e-34d47fa374f4")
 		(sheetname "/FPGA/")
@@ -19831,6 +20886,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6a4600a-19fb-4d7d-b72a-2a9f9b59f55c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20035,6 +21103,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "704debf5-0905-4c1b-84f8-b103fea42ca1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/f1a58d3d-428c-46a6-96af-466c177e3ebf")
 		(sheetname "/FPGA/FTDI/")
@@ -20174,6 +21255,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "?C20546?"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e4cd5a1-1ccc-48f1-8ced-705524811821")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20441,6 +21535,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f827a90c-2868-442c-b354-522d27a80a76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/ca186eca-52ea-42a5-8467-aa734c58992d")
 		(sheetname "/FPGA/")
@@ -20583,6 +21690,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5067775-fd77-4fdc-84b0-a7f9ef249bb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/9ad14e04-3e12-48f8-80ad-50a0208b5c95")
 		(sheetname "/FPGA/FTDI/")
@@ -20721,6 +21841,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75e3b386-dab0-4219-8d3c-7ae977088b9e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20927,6 +22060,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "820db508-a442-4660-b82b-46164ff5ba9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/6f4edb6d-f3cf-4f12-92ae-3ac272e16097")
 		(sheetname "/FPGA/FTDI/")
@@ -21123,6 +22269,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9eb3c7ff-4523-4fe7-8593-67cd2b1c3aeb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21325,6 +22484,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76d0900b-9f5c-415b-99c8-2884a28c8773")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21602,6 +22774,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee47f09d-2083-4921-b9d3-28a348e76735")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/d6bc8162-4c74-4ac1-857e-76fe22ba1c16")
 		(sheetname "/")
@@ -21714,6 +22899,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e9d005b-9a1e-4bee-8437-517e381f238d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21860,6 +23058,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c8bd848-5830-405a-8da3-0d84c90954c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/e7f88697-cf75-4bc4-ae01-513314b4204f")
 		(sheetname "/FPGA/")
@@ -22002,6 +23213,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdd6838b-19de-4b86-95dc-80e8958e44fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/2526cf52-bbfd-4428-a56d-abc3ec2bdc90")
 		(sheetname "/FPGA/")
@@ -22140,6 +23364,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f4c5b29-6dd0-401a-98d2-0d69b43db629")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22344,6 +23581,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6f84703-d538-4288-8610-00861f0f549f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/b631c9e3-0bc7-42a9-8a50-f9b534fbc34a")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -22544,6 +23794,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bc25ebc-b927-4f55-b7c6-2e92f0125755")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/a7f17da3-0c5f-424e-8abc-9657ac710bf4")
 		(sheetname "/FPGA/FTDI/")
@@ -22681,6 +23944,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5cefdb7-64a9-4f45-af9c-05e749df246b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22997,6 +24273,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2846640"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40f02390-cc97-45fe-9786-05fa7a4c35d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/f4d99a10-b3aa-43d1-9b47-33988737c159")
 		(sheetname "/MCU/")
@@ -23219,6 +24508,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b484798-7178-4c5d-a6de-895634ddae35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/85d3c26a-89f3-46a1-98d3-da8df25aa296")
 		(sheetname "/FPGA/FTDI/")
@@ -23356,6 +24658,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6fe61e1-4627-4b25-8944-321e6112dc63")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23660,6 +24975,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8381769-c613-43c0-84f8-a6fd11da4b0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/27d9874f-28d8-49fb-a510-6f743dfe71d0")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -23856,6 +25184,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6a93c7b-ace2-4874-bd51-069fee8ab858")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24060,6 +25401,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C19666"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "338a1b74-985c-4149-84c6-20554fdc4041")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/293424d7-7d6a-40c3-9b4b-8208b0b455a3")
 		(sheetname "/MCU/")
@@ -24260,6 +25614,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3c2cf22-1fb6-494d-96ab-025a3d6253c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/c5e81aa4-4e2a-4a17-968e-375163eafee9")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -24456,6 +25823,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68d374d8-e868-4c08-a766-13bc3f0d8b6c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24786,6 +26166,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02d5e4f6-6228-47be-80b5-0e7396c8948d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/306d28d2-61ff-44e4-a91a-5dd3afe1ab20")
 		(sheetname "/FPGA/FTDI/")
@@ -24924,6 +26317,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "446de59f-ae00-48e5-8789-d1c6a022c68a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25070,6 +26476,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C114662"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d148738b-04a7-44b4-bc6d-3f904dca9067")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/9dd6d772-423d-4aff-8082-7588ba5d6f7d")
 		(sheetname "/FPGA/FTDI/")
@@ -25212,6 +26631,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ee7b24b-7a8f-4a88-a104-beb7c68be8be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/d3985c5e-6edc-4a05-a1a7-a4cf6f874d45")
 		(sheetname "/FPGA/")
@@ -25350,6 +26782,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d3f1337-cfe0-4a1b-8f08-4ed7b13247b4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25554,6 +26999,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "741a3636-0477-4998-9805-38d464bdea7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/44835c98-510a-43d4-a4fe-a920afb1a94f")
 		(sheetname "/MCU/")
@@ -25750,6 +27208,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C64705"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d7a1787-54b8-4ad1-900e-bc00438e31ff")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25954,6 +27425,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e579f7d-a7fa-44d5-b55d-279147bef114")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/57936408-39bd-453c-b3b3-df1ef381d79c")
 		(sheetname "/MCU/")
@@ -26154,6 +27638,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C100042"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65ee3371-5f52-4798-a8bc-24f6a0c464b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/c7210488-dc96-4a71-874c-4823a6547c15")
 		(sheetname "/FPGA/")
@@ -26292,6 +27789,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab052291-2798-4924-b6db-f418bd12513e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26494,6 +28004,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae92e833-37c1-45a8-b35a-8a52533f4f88")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26771,6 +28294,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C19666"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b55ab84-f4de-4119-83e9-631206577c0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/614012f8-1a73-4701-b688-534b42711c5b")
 		(sheetname "/FPGA/FTDI/")
@@ -26911,6 +28447,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2988369"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a79d480-20cc-4d3e-ac2b-f6c564f4dd51")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27333,6 +28882,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C114662"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b184c88f-f012-4f8c-886e-ffa475cea2c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/bbd5a4d6-979b-4694-906b-b7cb0c8c54ba")
 		(sheetname "/FPGA/")
@@ -27471,6 +29033,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5891b9bc-aba2-4ae8-95c5-c502c66253f1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27671,6 +29246,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "704fcaaf-9c95-4bde-ac65-092a42870d48")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27901,6 +29489,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e45329b-7072-481b-9dea-786f534a654e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/35ec3448-b81d-43bd-bb16-28794c8568c8")
 		(sheetname "/FPGA/")
@@ -28094,6 +29695,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c55f25c9-3d1b-463a-a45c-df2bdc032785")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/2d6ee3b7-adf1-4b88-917f-7f7976bd6044")
 		(sheetname "/FPGA/")
@@ -28232,6 +29846,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C114662"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "870677c8-cfd3-4531-8173-597d29825a78")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28378,6 +30005,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49b067cc-c0c8-4ef5-b8a7-f3e47d71246d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/0a1258b2-e70b-4dda-8999-5b5fd1cdbd64")
 		(sheetname "/FPGA/")
@@ -28519,11 +30159,24 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7a7641f-9eed-4c82-8299-6361602953b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/79a77cab-b417-466a-a497-276112cc8871")
 		(sheetname "/FPGA/FTDI/")
 		(sheetfile "FT2232HL.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.86 -0.3)
 			(end -1.86 1.61)
@@ -28961,6 +30614,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C161217"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0d50d60-7431-4347-96fd-c3bf9995764a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/23db1838-6224-495a-8a29-dec6096da328")
 		(sheetname "/MCU/")
@@ -29161,6 +30827,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "953ea927-79d0-442f-8172-4e5472db09f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/24c7aabf-5d9e-49a1-9d44-60a8e2066516")
 		(sheetname "/FPGA/FTDI/")
@@ -29299,6 +30978,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5158f05e-b40c-472a-a8b0-0867dcd66c1a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29445,6 +31137,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95843"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c17b0f5-48fb-438b-a4b6-8cc99a3e0a27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/b2bcd2f8-5ac0-4763-839d-b303553f2aab")
 		(sheetname "/FPGA/")
@@ -29583,6 +31288,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C6808014"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9cc0fb66-cc73-4a22-b6e1-f02b3b239dcb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29789,6 +31507,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96faf248-3522-49b7-ae11-89a2ef878bce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/d1f552a2-27cd-463b-bc9f-081ff4a65587")
 		(sheetname "/FPGA/FTDI/")
@@ -29931,6 +31662,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "563e2522-e8b8-49ce-a27e-4da1dbb83af6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/4ae9f022-44ef-4786-9022-29dc38848a52")
 		(sheetname "/FPGA/")
@@ -30069,6 +31813,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37d4e7e7-51f8-4f03-8539-388288fd1fe6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -30273,6 +32030,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37852dbd-8e14-4796-824f-11c6660f0827")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/be73e618-852a-4f8c-9f9a-a6199c471a5a")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -30462,6 +32232,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0335ec79-5ce7-430e-83dc-0af91c4957cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/eb01e2c0-8ba3-48ce-90cf-99f492550ee4")
 		(sheetname "/FPGA/")
@@ -30599,6 +32382,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C7519"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a96a739c-aee5-4252-8419-1effee37ba88")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -30949,6 +32745,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C38523"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c71d8a1-cea2-407a-9bd7-180183b249fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/09d88a33-9804-4437-99d6-bd42770f91bf")
 		(sheetname "/MCU/")
@@ -31149,6 +32958,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C86295"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6b1564a-aa45-4edf-958f-27455e967e45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/64b0be58-cb7a-4b55-95b5-9ad4bb98f7e2")
 		(sheetname "/FPGA/")
@@ -31287,6 +33109,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04924ecb-caee-4643-8505-d6851fc83680")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -31433,6 +33268,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C114662"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8e9a8f8-a75e-4e23-aefc-0d625230d89a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/ea80b656-7447-4010-ab38-f5972f437026")
 		(sheetname "/FPGA/FTDI/")
@@ -31575,6 +33423,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ce733c1-8fc5-4d35-92a5-96397799b2af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/220c7966-cae9-44d0-9cc5-df60c7b60b52")
 		(sheetname "/FPGA/FTDI/")
@@ -31713,6 +33574,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2907044"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17011c41-bf98-4fd9-bc18-754aac9762cc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -31917,6 +33791,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "144855dd-635a-4cc4-a13f-447f58cb69c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/b40d874b-013c-4d00-bdbc-6c2ecde0fb36")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -32117,6 +34004,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3457851b-d014-433a-bcec-f4cddf17b1bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/98de7644-da54-4709-b9d4-2dd89905faae")
 		(sheetname "/FPGA/FTDI/")
@@ -32259,6 +34159,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C19702"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ffd08e2-771e-4f09-96b8-de64355f6ccd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/cd07546d-3654-415e-963b-41c12efe2fe6")
 		(sheetname "/FPGA/FTDI/")
@@ -32397,6 +34310,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "822fec0a-ea56-4d71-889d-56e435c43d96")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -32601,6 +34527,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fdfef5c-e95e-4aee-aad5-0b3bae1fe605")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/1f396f53-5a58-4f0a-afd8-56827944ec5c")
 		(sheetname "/FPGA/FTDI/")
@@ -32739,6 +34678,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C64705"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8adf56ca-d7a6-4713-8f7c-6118f513ce0d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -32942,11 +34894,24 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f1616d9-3429-4167-a713-d52bf80be0c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/b2893375-6a0f-4283-8592-84046b7fb6b6")
 		(sheetname "/FPGA/")
 		(sheetfile "FPGA.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 49.64)
 			(end 3.92 49.64)
@@ -33605,6 +35570,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54edbb96-72fb-4280-a7bc-e2790c9a54a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/4cb0109f-3ab3-4de9-9640-4f22a98d4cfa")
 		(sheetname "/")
@@ -33721,6 +35699,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "440a97d7-457b-4d33-a45b-f257cc9f4288")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8632a648-7423-4889-b529-a79cc6b75f85")
 		(sheetname "/")
@@ -33833,6 +35824,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f770d7e-b6eb-4e6c-9c2c-bf4c8e4aa731")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -33974,6 +35978,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c788d384-a82c-4404-963b-8af73d05c9ca")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -34278,6 +36295,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4aaa15c4-3541-4240-b488-a1803f19dd64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/6b95b96c-976a-4161-9f34-c0d0bd3b9898")
 		(sheetname "/FPGA/FTDI/")
@@ -34416,6 +36446,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa0e422a-e7dc-4b2f-baef-aa3c8929dc79")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -34786,6 +36829,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C19666"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e8bc938-5be2-46ff-8df2-2a0c51ed1b6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/ac46f764-253c-468f-8631-97abee25e939")
 		(sheetname "/MCU/")
@@ -34984,6 +37040,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df3c1600-69b3-4ba7-9c56-0b8e0d350985")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -35261,6 +37330,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e10c21f1-65ee-461f-88d2-e6748a59a3e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/3156892a-b728-4818-84b8-23fe5f1e8274")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -35461,6 +37543,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "776ceefd-2d37-454f-b014-ccc497e7fa88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/0b93019d-751c-4b02-9df9-2a093543f012")
 		(sheetname "/FPGA/FTDI/")
@@ -35599,6 +37694,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C19666"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24ad4034-6cb3-4e43-8cc8-bd2a1578a7c2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -35745,6 +37853,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C49326300"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee0a7017-6dd7-4fe1-b442-a6d07e9e19d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/41273fba-9f42-4990-8a25-ae5522fac917")
 		(sheetname "/FPGA/FTDI/")
@@ -35883,6 +38004,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "940c4516-0e29-443a-950b-43ece5d8fd3f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36087,6 +38221,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56352a29-fc34-4bac-8284-06a9a5521b7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/093eb096-1100-4d77-9414-e9085c324001")
 		(sheetname "/FPGA/")
@@ -36235,6 +38382,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5345b18-69ec-47a5-ae95-8201efcbb2ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8803e99a-fb98-4373-af66-260a64180227")
 			(effects
 				(font
 					(size 1 1)
@@ -36435,6 +38595,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C431727"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffdc1d34-6156-4092-ae37-3ba2426c9a77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/2c46ee4d-ff81-45b0-9196-8b02b49b3e97")
 		(sheetname "/FPGA/FTDI/")
@@ -36577,6 +38750,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C19702"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5551ef59-75c0-4e79-bdf7-1e0293275c16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/f9684f1c-a942-4326-9809-3edd7e6263fc")
 		(sheetname "/FPGA/")
@@ -36715,6 +38901,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8fcf395d-79f0-4b86-a65d-847f0a567192")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36866,15 +39065,16 @@
 			)
 		)
 	)
-	(footprint "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+	(footprint "Diode_SMD:D_SOD-323F"
 		(layer "F.Cu")
 		(uuid "e0788b23-895f-4540-8e02-dad719474191")
 		(at 165.229 86.1595 90)
-		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
-		(tags "diode handsolder")
+		(descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
+		(tags "SOD-323F")
 		(property "Reference" "D2"
-			(at 0 -1.43 90)
+			(at -0.0355 -1.874 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "638c0dec-9659-4d53-b394-f46855125ad1")
 			(effects
 				(font
@@ -36884,7 +39084,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 0 1.43 90)
+			(at 0.1 1.9 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "24b54138-65af-4575-b8cf-e02878c1d611")
@@ -36897,6 +39097,7 @@
 		)
 		(property "Datasheet" "~"
 			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b41558a-04cf-4da5-9453-28985ddf0b71")
@@ -36909,6 +39110,7 @@
 		)
 		(property "Description" "Schottky diode"
 			(at 0 0 90)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c3b5fd5c-2be3-4ac9-8ea7-df6b3879a465")
@@ -36919,145 +39121,208 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15585899-c229-4901-a216-a901325ff050")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/dbf760fb-b7e8-4dce-8863-a577e8670532")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 0.8 -0.735)
-			(end -1.66 -0.735)
+			(start -1.61 -0.85)
+			(end 1.05 -0.85)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "243dd44d-5250-47a9-a34a-5a8ebca2c621")
+			(uuid "93eaa3d0-2893-477c-8e8c-186bedc6b50e")
 		)
 		(fp_line
-			(start -1.66 -0.735)
-			(end -1.66 0.735)
+			(start -1.61 -0.85)
+			(end -1.61 0.85)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eda5b046-e047-4528-a37c-fb7387fb4092")
+			(uuid "a4d1d78b-822e-421f-b701-0a15d61b6fdc")
 		)
 		(fp_line
-			(start -1.66 0.735)
-			(end 0.8 0.735)
+			(start -1.61 0.85)
+			(end 1.05 0.85)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "59586e3e-bd63-431d-8163-29514c2caf48")
+			(uuid "49fa8d37-5d92-41f8-a325-c45cf619fd9a")
 		)
 		(fp_line
-			(start 1.65 -0.73)
-			(end 1.65 0.73)
+			(start 1.6 -0.95)
+			(end 1.6 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6ec5197c-4c77-4d22-9615-086fbbb164fd")
+			(uuid "837c375c-1543-4b08-b291-ee96712c49a7")
 		)
 		(fp_line
-			(start -1.65 -0.73)
-			(end 1.65 -0.73)
+			(start -1.6 -0.95)
+			(end 1.6 -0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "675de9a0-67be-4acc-8c2a-398a89660694")
+			(uuid "edca4ef6-0e92-4985-950d-63230e2eae82")
 		)
 		(fp_line
-			(start 1.65 0.73)
-			(end -1.65 0.73)
+			(start -1.6 -0.95)
+			(end -1.6 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "207faa5e-f229-4eaf-b067-012f92ffaab4")
+			(uuid "a9287ac3-fc26-4be9-8de6-0715c3735272")
 		)
 		(fp_line
-			(start -1.65 0.73)
-			(end -1.65 -0.73)
+			(start -1.6 0.95)
+			(end 1.6 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ca68aa27-be5b-4b6b-8938-f3030b0af6fc")
+			(uuid "5ead3300-6543-4717-adb4-ea9fea3648e0")
 		)
 		(fp_line
-			(start 0.8 -0.4)
-			(end -0.5 -0.4)
+			(start 0.9 -0.7)
+			(end 0.9 0.7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "12592b2d-c4a8-4a3e-adf4-8de9c9379cd8")
+			(uuid "1add6eb6-9709-493d-bfaa-969e39e3e3eb")
 		)
 		(fp_line
-			(start -0.5 -0.4)
-			(end -0.8 -0.1)
+			(start -0.9 -0.7)
+			(end 0.9 -0.7)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "169050ae-f725-449b-aa26-e66919614595")
+			(uuid "ab477d8c-c228-49f5-ae84-5ceaa812716f")
 		)
 		(fp_line
-			(start -0.8 -0.1)
-			(end -0.8 0.4)
+			(start 0.2 -0.35)
+			(end 0.2 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3ba83e3b-aa03-47df-a1a4-eb1b8582d701")
+			(uuid "d10f3413-83c4-4e0f-9e67-07f0c2778dfe")
 		)
 		(fp_line
-			(start 0.8 0.4)
-			(end 0.8 -0.4)
+			(start -0.3 -0.35)
+			(end -0.3 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cf859f67-87ec-409b-ad10-9b0f43603df7")
+			(uuid "d501056c-df14-4aae-b299-427b5fac0f42")
 		)
 		(fp_line
-			(start -0.8 0.4)
-			(end 0.8 0.4)
+			(start 0.2 0)
+			(end 0.45 0)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "48dceed2-ab54-484d-a744-5d19dc602728")
+			(uuid "a0158259-2ecd-46a2-b859-5e006d0bbf34")
+		)
+		(fp_line
+			(start -0.3 0)
+			(end 0.2 -0.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c8f01caa-ee9e-4d67-9750-22bc01fad8e1")
+		)
+		(fp_line
+			(start -0.3 0)
+			(end -0.5 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4bd42dbb-a9df-4774-92b5-6fc8c50afc73")
+		)
+		(fp_line
+			(start 0.2 0.35)
+			(end -0.3 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ed49e324-975f-41d9-9d88-7e1c04a458b6")
+		)
+		(fp_line
+			(start 0.9 0.7)
+			(end -0.9 0.7)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "115907de-5930-4f7d-8000-48f1ee4e7a81")
+		)
+		(fp_line
+			(start -0.9 0.7)
+			(end -0.9 -0.7)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a80e5853-446a-4352-86d2-9c0142f334e7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at -0.0085 -3.683 90)
 			(layer "F.Fab")
 			(uuid "ac2bfcb6-8d50-494b-bbaa-89d9fd1699c5")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.875 0 90)
-			(size 1.05 0.95)
+			(at -1.1 0 90)
+			(size 0.5 0.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net 10 "Net-(D2-K)")
@@ -37066,8 +39331,8 @@
 			(uuid "c4904062-cab8-40c6-b89c-2c94b209c13a")
 		)
 		(pad "2" smd roundrect
-			(at 0.875 0 90)
-			(size 1.05 0.95)
+			(at 1.1 0 90)
+			(size 0.5 0.5)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net 277 "Net-(BT1-+)")
@@ -37076,7 +39341,7 @@
 			(uuid "d24cd590-1b5e-43ba-ab4c-b7a1d9c22612")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0603_1608Metric.step"
+		(model "${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37137,6 +39402,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f1c7ff7-bda0-4921-9ec2-b1cd98c36ffa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -37283,6 +39561,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "620871aa-84c3-4b98-9281-470f7b74dd28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/e727e5a5-84e8-4c66-abdc-b5e5ca2ea183")
 		(sheetname "/FPGA/")
@@ -37425,6 +39716,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d73c2010-a9ff-468b-bf8d-2d3fa9985d89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/a0274a7c-3f29-44e8-94f3-c4d8dec1b49b")
 		(sheetname "/FPGA/")
@@ -37563,6 +39867,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6842d999-1a3a-486a-ab9e-f4a6a1486c91")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -37767,6 +40084,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C22548"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b9e75ec-f73e-427e-99c7-86411df05a0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/23e99bdb-8bde-48c2-9a90-f0c230e58b79")
 		(sheetname "/FPGA/")
@@ -37905,6 +40235,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06102d77-4d4e-4148-a4f9-21623c35639f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -38108,11 +40451,24 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f760fbb-d74c-4574-95fa-f48254d13532")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/ea0a7eb2-37c3-4125-b2c5-a66203c5ae1a")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -38532,6 +40888,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C7528752"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6dc274b3-65f9-48af-ae00-7ddfb6c6f38f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/c9b08701-3f69-4151-a0d4-9977cf8334c8")
 		(sheetname "/MCU/")
 		(sheetfile "MCU.kicad_sch")
@@ -38878,6 +41247,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C95177"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6762390-5883-453d-8b42-d0b7b759ad5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/dd9406d1-33e6-43fa-bd65-bbea9e446010")
 		(sheetname "/FPGA/")
@@ -39017,6 +41399,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C7528752"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e11faa4f-c82d-4390-bb6d-29ea4d90d09e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -39363,6 +41758,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e40b871-9911-497b-badd-286965699943")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -40196,6 +42604,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d5cede5-14e6-475f-8694-0fb7c8525838")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ea674bc-7219-4d97-84d7-b7e53bcafaa6")
 			(effects
 				(font
 					(size 1 1)
@@ -42022,6 +44443,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70a4d756-f05a-46d9-8f8d-cd023632afa4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bca3eb5-73b3-4aa8-9f30-e1743a374253/218b9c79-34c6-4f16-af2d-c91825215b5a/008f5d40-b86a-47c6-aefe-202a8f40da10")
 		(sheetname "/MCU/MCU_Level_Shifters/")
@@ -42219,6 +44653,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "094078cf-73c6-4a44-91df-6d066aba1c58")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -42486,6 +44933,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3cde9af-6a41-440a-ac55-04d2abbc1d82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/39699ff7-0a15-4f77-94a0-c1dca93517d8/4a802de8-7a16-4c0f-8d56-c9ba9cb8d2b4")
 		(sheetname "/FPGA/FTDI/")
@@ -42628,6 +45088,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "209a650e-c796-4951-a607-d2fcf341d046")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/ca3b344f-ed42-452e-9ddf-12dc38fd8032")
 		(sheetname "/FPGA/")
@@ -42766,6 +45239,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C100042"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f2ee5a5-0420-4212-880a-35bbc32308c2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -42965,6 +45451,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C7519"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0952646d-12db-44f6-854a-ddf3bdb41c70")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -43315,6 +45814,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2f54096-8239-4638-a9eb-d0819c20067f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/c3a012b6-dfee-4d2e-baef-5495c482fa5b")
 		(sheetname "/FPGA/")
@@ -43457,6 +45969,19 @@
 				)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b4112c3-4195-44d0-82f8-0c57c22b620f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1879700-d4ae-4f4f-b9ed-53e5618d969d/025a8ded-3cb6-426b-bfa6-c0fd49a21b8f")
 		(sheetname "/FPGA/")
@@ -43595,6 +46120,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C519375"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b4890ba-f130-4152-bd38-d45c29cf825e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -43805,6 +46343,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc4a3379-68c3-4044-bdf2-bcdd868b0e35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part Number" "C2994781"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee61026d-d7ed-4bf0-8ca3-4380199994d1")
 			(effects
 				(font
 					(size 1 1)
@@ -44167,6 +46718,18 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "f3edeae6-e21d-4890-be96-f2add626a07d")
+	)
+	(gr_poly
+		(pts
+			(xy 164.067 85.859) (xy 164.067 86.619) (xy 163.687 86.239)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "fdc84eda-cc20-4366-aeb8-f0bf48dd18f9")
 	)
 	(gr_poly
 		(pts
@@ -54388,14 +56951,6 @@
 		(uuid "1250c8c1-998e-4c80-abe2-e8a230ea6c61")
 	)
 	(segment
-		(start 170.5635 85.2815)
-		(end 168.008 85.2815)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 9)
-		(uuid "13ffd8e9-033f-4933-b658-edb6fbdfe5af")
-	)
-	(segment
 		(start 159.9575 64.9605)
 		(end 160.6 64.318)
 		(width 0.4)
@@ -54458,6 +57013,14 @@
 		(layer "F.Cu")
 		(net 9)
 		(uuid "2ca64652-0652-42b5-a067-3fcb56142b96")
+	)
+	(segment
+		(start 170.3385 85.0565)
+		(end 168.008 85.0565)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "2cbf39d3-b98a-4145-8ee3-edfe2d600a5a")
 	)
 	(segment
 		(start 173.688 111.661)
@@ -54906,6 +57469,14 @@
 		(layer "F.Cu")
 		(net 9)
 		(uuid "869838dc-6541-4636-9a4e-636168a84dde")
+	)
+	(segment
+		(start 170.5635 85.2815)
+		(end 170.3385 85.0565)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "8957013e-1d3e-4781-80d8-5681bcae1113")
 	)
 	(segment
 		(start 181.383 134.918)
@@ -56284,14 +58855,6 @@
 		(uuid "fcd982c5-12e1-46d7-8ea1-973428ccd274")
 	)
 	(segment
-		(start 166.562 87.935)
-		(end 167.4655 87.0315)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 10)
-		(uuid "0fe29c30-5f97-4a50-b3b4-aed0da6f5e35")
-	)
-	(segment
 		(start 168.008 90.013)
 		(end 170.069 92.074)
 		(width 0.2)
@@ -56308,36 +58871,36 @@
 		(uuid "53289fe1-2a6f-4361-a3b3-f85d238a8f75")
 	)
 	(segment
-		(start 165.6615 87.0345)
-		(end 165.229 87.0345)
+		(start 167.2405 87.2565)
+		(end 166.562 87.935)
 		(width 0.25)
 		(layer "F.Cu")
 		(net 10)
-		(uuid "ada4ea25-0f55-4aa6-9639-377f7bae5dbe")
+		(uuid "719926bc-0f81-4f6f-b109-0a17dd192df2")
 	)
 	(segment
-		(start 167.4655 87.0315)
-		(end 168.008 87.0315)
-		(width 0.2)
+		(start 168.008 87.2565)
+		(end 167.2405 87.2565)
+		(width 0.25)
 		(layer "F.Cu")
 		(net 10)
-		(uuid "aed12e89-6ec5-45c1-812e-7a2c20374b81")
+		(uuid "8f6a0974-2e99-4197-a693-78ad862e8c84")
 	)
 	(segment
-		(start 168.008 87.0315)
+		(start 165.8865 87.2595)
+		(end 166.562 87.935)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "8fc65bbe-9c25-46d3-89a6-d1613d1a2c84")
+	)
+	(segment
+		(start 168.008 87.2565)
 		(end 168.008 90.013)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 10)
-		(uuid "bc0f7a54-ef88-4b57-a917-3618de4e4b95")
-	)
-	(segment
-		(start 166.562 87.935)
-		(end 165.6615 87.0345)
-		(width 0.25)
-		(layer "F.Cu")
-		(net 10)
-		(uuid "cf928701-a003-46d7-b156-b3bc6135ebda")
+		(uuid "ab72136e-edc9-4ff4-af94-54bff63a195e")
 	)
 	(segment
 		(start 166.562 89.3715)
@@ -56354,6 +58917,14 @@
 		(layer "F.Cu")
 		(net 10)
 		(uuid "edef3de9-f756-442c-9eb4-3de6e0c7b6bd")
+	)
+	(segment
+		(start 165.229 87.2595)
+		(end 165.8865 87.2595)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "fa78e91c-4310-433d-84f2-cdba6cc20e90")
 	)
 	(segment
 		(start 205.0905 141.2625)
@@ -70692,6 +73263,14 @@
 		(uuid "f4c2decf-33d5-4814-af02-30ed4efa3516")
 	)
 	(segment
+		(start 165.229 83.692)
+		(end 165.229 85.0595)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 277)
+		(uuid "5c963b7e-b39b-47a2-8ec7-fcf2bbf07a1a")
+	)
+	(segment
 		(start 173.664 78.907)
 		(end 170.014 78.907)
 		(width 0.4)
@@ -70706,14 +73285,6 @@
 		(layer "F.Cu")
 		(net 277)
 		(uuid "a8be2cc7-f217-40b2-ae7b-98181a978a81")
-	)
-	(segment
-		(start 165.229 83.692)
-		(end 165.229 85.2845)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 277)
-		(uuid "ad9f095d-c05f-4770-800a-93a26234fabe")
 	)
 	(segment
 		(start 165.418 83.503)
