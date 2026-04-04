@@ -509,7 +509,7 @@
       "idf": "",
       "netlist": "",
       "plot": "C:/Users/ivail/Desktop/",
-      "pos_files": "",
+      "pos_files": "../../temp/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -913,7 +913,7 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "LCSC Part Number",
           "name": "LCSC Part Number",
           "show": true
