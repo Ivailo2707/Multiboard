@@ -18604,16 +18604,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 87.63) (xy 350.52 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a895bc0-9ad7-4cb3-af75-97f9858a26c2")
-	)
-	(wire
-		(pts
 			(xy 67.31 46.99) (xy 82.55 46.99)
 		)
 		(stroke
@@ -19614,16 +19604,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 90.17) (xy 350.52 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9a789c8-df0e-4684-a919-8cc658c68005")
-	)
-	(wire
-		(pts
 			(xy 248.92 140.97) (xy 261.62 140.97)
 		)
 		(stroke
@@ -19964,16 +19944,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 85.09) (xy 350.52 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4748ad0-c49f-497b-baaf-15131130a5fd")
-	)
-	(wire
-		(pts
 			(xy 251.46 218.44) (xy 251.46 222.25)
 		)
 		(stroke
@@ -20211,16 +20181,6 @@
 			(type default)
 		)
 		(uuid "f39c0498-bc62-405f-a44c-b0387fbb9d78")
-	)
-	(wire
-		(pts
-			(xy 345.44 92.71) (xy 350.52 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3bd59fd-9548-454c-9723-446250e2f8ff")
 	)
 	(wire
 		(pts
@@ -21404,28 +21364,6 @@
 			)
 		)
 	)
-	(global_label "PR10C-Tx"
-		(shape passive)
-		(at 350.52 90.17 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left)
-		)
-		(uuid "0d2c69f9-7bdc-4122-90c6-e768d213c28a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 356.3557 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PR10A-CTSn"
 		(shape passive)
 		(at 255.27 49.53 180)
@@ -21888,50 +21826,6 @@
 			)
 		)
 	)
-	(global_label "PR10A-CTSn"
-		(shape passive)
-		(at 350.52 85.09 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left)
-		)
-		(uuid "e6dd7a66-0cac-481d-b233-430b35f88a3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 357.5653 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PR10D-Rx"
-		(shape passive)
-		(at 350.52 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left)
-		)
-		(uuid "ec92fb37-7f13-4821-b5af-33d2742fe76c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 356.5069 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PT10C-TDO"
 		(shape passive)
 		(at 118.11 60.96 180)
@@ -21972,28 +21866,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PR10B-RTSn"
-		(shape passive)
-		(at 350.52 87.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left)
-		)
-		(uuid "f9f9c95e-67b8-48af-8aaa-d8a4ab3dfa24")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 357.656 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
