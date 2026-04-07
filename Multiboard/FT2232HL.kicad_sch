@@ -7554,7 +7554,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "6f4edb6d-f3cf-4f12-92ae-3ac272e16097")
 		(property "Reference" "Y3"
@@ -8865,7 +8865,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1350395"
+		(property "LCSC Part Number" ""
 			(at 40.64 86.36 90)
 			(effects
 				(font

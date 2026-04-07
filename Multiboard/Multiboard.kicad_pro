@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.5,
-          "width": 0.3
+          "height": 0.6,
+          "width": 1.325
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -508,8 +508,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../IR-MB-GRB/",
-      "pos_files": "../../IR-MB-GRB/",
+      "plot": "C:/Users/ivail/Desktop/",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -913,7 +913,7 @@
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "LCSC Part Number",
           "name": "LCSC Part Number",
           "show": true

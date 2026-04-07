@@ -6132,12 +6132,6 @@
 		(uuid "1150bac2-511b-4220-921b-a176624b603b")
 	)
 	(junction
-		(at 330.2 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1ae195ee-034f-4f58-a7bf-e69d5a36fe95")
-	)
-	(junction
 		(at 364.49 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6677,16 +6671,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 74.93) (xy 156.21 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0977ac2c-c9bd-4099-b64b-09cc32d3b9b3")
-	)
-	(wire
-		(pts
 			(xy 78.74 100.33) (xy 88.9 100.33)
 		)
 		(stroke
@@ -6734,6 +6718,16 @@
 			(type default)
 		)
 		(uuid "0e65250f-c2c7-43bc-b191-ff43525f0592")
+	)
+	(wire
+		(pts
+			(xy 317.5 45.72) (xy 317.5 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "108ac9e4-cab2-4627-b933-1fbb205416f0")
 	)
 	(wire
 		(pts
@@ -7357,6 +7351,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 57.15) (xy 317.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57623cba-4dd3-436f-930c-bddbcbe1d667")
+	)
+	(wire
+		(pts
 			(xy 119.38 58.42) (xy 119.38 60.96)
 		)
 		(stroke
@@ -7827,7 +7831,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 60.96) (xy 330.2 60.96)
+			(xy 317.5 60.96) (xy 342.9 60.96)
 		)
 		(stroke
 			(width 0)
@@ -8437,16 +8441,6 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 78.74) (xy 317.5 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b59b5474-6d9d-4d5b-945d-a09990f572a3")
-	)
-	(wire
-		(pts
 			(xy 119.38 179.07) (xy 127 179.07)
 		)
 		(stroke
@@ -8567,16 +8561,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 74.93) (xy 93.98 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd23508a-e7f9-46fa-a1d8-67ff4207d994")
-	)
-	(wire
-		(pts
 			(xy 335.28 116.84) (xy 335.28 123.19)
 		)
 		(stroke
@@ -8584,6 +8568,16 @@
 			(type default)
 		)
 		(uuid "bfd82cfa-13be-4684-a4a6-7f02065914d4")
+	)
+	(wire
+		(pts
+			(xy 78.74 74.93) (xy 156.21 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0068803-c6ef-4387-bdfb-3ad1596ea64b")
 	)
 	(wire
 		(pts
@@ -9027,16 +9021,6 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 60.96) (xy 342.9 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9574cf6-0ff9-4a9e-9d05-a7f446216d75")
-	)
-	(wire
-		(pts
 			(xy 308.61 86.36) (xy 312.42 86.36)
 		)
 		(stroke
@@ -9164,16 +9148,6 @@
 			(justify left bottom)
 		)
 		(uuid "34e3c54c-f408-403f-8f43-74550b742cc7")
-	)
-	(label "PA3"
-		(at 93.98 74.93 180)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify right bottom)
-		)
-		(uuid "395985f5-6c12-4ce0-b7a9-536a03e1fed9")
 	)
 	(label "PB12"
 		(at 120.65 146.05 0)
@@ -9314,16 +9288,6 @@
 			(justify left bottom)
 		)
 		(uuid "7bd302b0-076c-4fed-9f09-cc3257be67ca")
-	)
-	(label "PA3"
-		(at 144.78 74.93 180)
-		(effects
-			(font
-				(size 0.762 0.762)
-			)
-			(justify right bottom)
-		)
-		(uuid "84860642-f749-4d65-bb49-bff10266c29f")
 	)
 	(label "D+"
 		(at 308.61 83.82 0)
@@ -11560,7 +11524,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 330.2 57.15 270)
+		(at 317.5 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11569,7 +11533,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b8e1aa3-9a54-4542-93d3-ddda1068b5e5")
 		(property "Reference" "D1"
-			(at 336.55 57.15 0)
+			(at 323.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11577,7 +11541,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 334.01 57.15 0)
+			(at 321.31 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11585,7 +11549,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 330.2 57.15 0)
+			(at 317.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11594,7 +11558,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 330.2 57.15 0)
+			(at 317.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11603,7 +11567,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 330.2 57.15 0)
+			(at 317.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11612,7 +11576,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 330.2 57.15 0)
+			(at 317.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11621,7 +11585,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 330.2 57.15 0)
+			(at 317.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11630,7 +11594,7 @@
 			)
 		)
 		(property "LCSC Part Number" ""
-			(at 330.2 57.15 0)
+			(at 317.5 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11871,7 +11835,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 330.2 53.34 0)
+		(at 317.5 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11880,7 +11844,7 @@
 		(fields_autoplaced yes)
 		(uuid "35769d3f-da08-4e2b-b751-ef04128d2503")
 		(property "Reference" "#PWR0137"
-			(at 330.2 57.15 0)
+			(at 317.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11889,7 +11853,7 @@
 			)
 		)
 		(property "Value" "5V_MCU"
-			(at 330.2 48.26 0)
+			(at 317.5 40.64 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -11898,7 +11862,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 330.2 53.34 0)
+			(at 317.5 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11907,7 +11871,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 330.2 53.34 0)
+			(at 317.5 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11916,7 +11880,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 330.2 53.34 0)
+			(at 317.5 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14375,7 +14339,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C255920"
+		(property "LCSC Part Number" ""
 			(at 127 210.82 90)
 			(effects
 				(font
@@ -14826,92 +14790,6 @@
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253"
 					(reference "#FLG06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Linear:ME6211C33M5")
-		(at 349.25 125.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9203567a-b778-49d0-8dfd-1cd94048010e")
-		(property "Reference" "U3"
-			(at 349.25 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ME6211C33M5"
-			(at 349.25 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 348.742 139.192 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MICRONE-Nanjing-Micro-One-Elec-ME6211C33R5G_C235316.pdf"
-			(at 349.504 142.748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "500mA low dropout linear regulator, shutdown pin, 6.5V max input voltage, 3.3V fixed positive output, SOT-23-5"
-			(at 351.028 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2984946"
-			(at 349.25 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ad0ce81b-d64c-4ffe-b987-7cc8a44806d2")
-		)
-		(pin "5"
-			(uuid "f427a529-f8ee-43cb-a2be-a507e1e952f4")
-		)
-		(pin "4"
-			(uuid "63bf83d8-c5ef-4e25-83af-b7aa7b14e14e")
-		)
-		(pin "3"
-			(uuid "db052a95-7dd2-41df-b488-41c41c08505b")
-		)
-		(pin "1"
-			(uuid "978805bf-91c2-440f-80d0-a58eb157851e")
-		)
-		(instances
-			(project ""
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253"
-					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -15596,7 +15474,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C95361"
+		(property "LCSC Part Number" ""
 			(at 127 185.42 90)
 			(effects
 				(font
@@ -16050,6 +15928,83 @@
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253"
 					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Linear:ME6211C33M5")
+		(at 349.25 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c603cbfc-b28a-4a0e-be5e-5307e5affdfa")
+		(property "Reference" "U3"
+			(at 349.25 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ME6211C33M5"
+			(at 349.25 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
+			(at 348.742 139.192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MICRONE-Nanjing-Micro-One-Elec-ME6211C33R5G_C235316.pdf"
+			(at 349.504 142.748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500mA low dropout linear regulator, shutdown pin, 6.5V max input voltage, 3.3V fixed positive output, SOT-23-5"
+			(at 351.028 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "f6dfc616-aac2-4e41-8c37-01b13821791b")
+		)
+		(pin "2"
+			(uuid "25dd5da2-1824-4c0e-bd0d-4b2f5748ba34")
+		)
+		(pin "4"
+			(uuid "b16808d9-cf38-4ed6-a1f9-9b55a6eeb189")
+		)
+		(pin "1"
+			(uuid "d8026633-e6f1-4b48-a05a-e7f27fab0264")
+		)
+		(pin "3"
+			(uuid "2648c6b7-1275-4615-babb-d0d0bd88728e")
+		)
+		(instances
+			(project ""
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/2bca3eb5-73b3-4aa8-9f30-e1743a374253"
+					(reference "U3")
 					(unit 1)
 				)
 			)

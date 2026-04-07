@@ -24604,7 +24604,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C20546"
+		(property "LCSC Part Number" "?C20546?"
 			(at 77.47 204.47 0)
 			(effects
 				(font
@@ -25682,7 +25682,7 @@
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97d0e6f3-9c98-4d7f-bf9f-2959b75665f8")
@@ -26795,7 +26795,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C14529"
+		(property "LCSC Part Number" ""
 			(at 53.34 251.46 0)
 			(effects
 				(font
@@ -28820,7 +28820,7 @@
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccc7c257-d38f-4da3-9270-2578d511a9f1")
@@ -30119,7 +30119,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4be9459-fb72-42d4-a75d-8fc3ad58e606")
@@ -31556,7 +31556,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5cc5984-7985-495d-be69-b92368908cf0")
