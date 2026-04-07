@@ -224,8 +224,8 @@
 		(at 140.97 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39841a5d-9170-494b-b4fa-4d75b7c5a043")
@@ -366,8 +366,8 @@
 		(at 140.97 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4cb0109f-3ab3-4de9-9640-4f22a98d4cfa")
@@ -574,8 +574,8 @@
 		(at 140.97 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8632a648-7423-4889-b529-a79cc6b75f85")
@@ -650,8 +650,8 @@
 		(at 140.97 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6bc8162-4c74-4ac1-857e-76fe22ba1c16")
@@ -830,7 +830,7 @@
 		)
 	)
 	(sheet
-		(at 15.748 28.194)
+		(at 15.748 27.94)
 		(size 115.062 131.826)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -846,7 +846,7 @@
 		)
 		(uuid "a1879700-d4ae-4f4f-b9ed-53e5618d969d")
 		(property "Sheetname" "FPGA"
-			(at 15.748 27.4824 0)
+			(at 15.748 27.2284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -855,7 +855,7 @@
 			)
 		)
 		(property "Sheetfile" "FPGA.kicad_sch"
-			(at 15.748 160.6046 0)
+			(at 15.748 160.3506 0)
 			(effects
 				(font
 					(size 1.27 1.27)

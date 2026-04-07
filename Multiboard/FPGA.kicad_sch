@@ -16585,6 +16585,12 @@
 		(uuid "1ba652d3-3d42-4272-8a94-63314f4c9bf2")
 	)
 	(junction
+		(at 260.35 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20f6f97e-f8dd-498d-937f-f831fec591fb")
+	)
+	(junction
 		(at 109.22 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -16681,7 +16687,7 @@
 		(uuid "5b5f0437-239f-454a-9bc4-087e8c2f9e28")
 	)
 	(junction
-		(at 403.86 138.43)
+		(at 396.24 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c04ac92-1d7f-429a-b5f2-572721c07220")
@@ -16693,13 +16699,13 @@
 		(uuid "6067f8c2-fe0d-4ecb-ab73-df9c0ec04f00")
 	)
 	(junction
-		(at 378.46 130.81)
+		(at 370.84 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "64db0b77-57cd-4d10-a9f7-202ae827ad9c")
 	)
 	(junction
-		(at 391.16 138.43)
+		(at 383.54 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "732009d4-1e31-4e21-abd4-7ff76aaa498f")
@@ -16777,7 +16783,7 @@
 		(uuid "87d7a75f-c504-4d90-8f0a-64e247bdef99")
 	)
 	(junction
-		(at 391.16 130.81)
+		(at 383.54 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8ad87dd5-d077-459f-b257-b8b96d5b9199")
@@ -16915,16 +16921,10 @@
 		(uuid "df3195f4-219e-49b6-83d1-3ab397ffc8b2")
 	)
 	(junction
-		(at 403.86 130.81)
+		(at 396.24 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e42e0c6f-726a-40b2-80b6-57ec8955a322")
-	)
-	(junction
-		(at 260.35 203.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee011ca8-1d12-45f4-bd3b-903e41cf8311")
 	)
 	(junction
 		(at 109.22 77.47)
@@ -16961,7 +16961,7 @@
 		(uuid "001cbb7d-c42c-4a27-b9e7-9e4534bd1f89")
 	)
 	(no_connect
-		(at 304.8 161.29)
+		(at 297.18 162.56)
 		(uuid "00ff8724-38cd-434b-8334-4165436b66bd")
 	)
 	(no_connect
@@ -16985,15 +16985,15 @@
 		(uuid "20cdb418-c22e-4d4e-8863-a54193b408e6")
 	)
 	(no_connect
-		(at 304.8 148.59)
+		(at 297.18 149.86)
 		(uuid "279d91db-a1f3-4fc6-88ed-7fd0d04c9b54")
 	)
 	(no_connect
-		(at 345.44 153.67)
+		(at 337.82 154.94)
 		(uuid "287f75c9-7754-48ad-aca6-f565022e6c75")
 	)
 	(no_connect
-		(at 345.44 173.99)
+		(at 337.82 175.26)
 		(uuid "28eff136-487d-46d7-93b0-555ff411dff6")
 	)
 	(no_connect
@@ -17005,7 +17005,7 @@
 		(uuid "2ece407a-fa26-42ad-9d95-7e2ef616fbc8")
 	)
 	(no_connect
-		(at 304.8 140.97)
+		(at 297.18 142.24)
 		(uuid "32ac4c86-aba3-4bb1-ae44-0075922b2bb6")
 	)
 	(no_connect
@@ -17013,19 +17013,19 @@
 		(uuid "32e14c23-c9ca-4453-a24b-08dee3e7dde6")
 	)
 	(no_connect
-		(at 304.8 135.89)
+		(at 297.18 137.16)
 		(uuid "34669325-d5eb-4018-b849-9e4240a02284")
 	)
 	(no_connect
-		(at 304.8 173.99)
+		(at 297.18 175.26)
 		(uuid "36c560f1-7e24-4b11-a0c8-5416e200ff41")
 	)
 	(no_connect
-		(at 345.44 161.29)
+		(at 337.82 162.56)
 		(uuid "38472de2-82b2-497d-b011-764281aff329")
 	)
 	(no_connect
-		(at 304.8 176.53)
+		(at 297.18 177.8)
 		(uuid "419de477-190f-4599-91e1-8b17026af90b")
 	)
 	(no_connect
@@ -17037,19 +17037,19 @@
 		(uuid "4a3acdc8-132b-427f-8308-bbc6a50077b9")
 	)
 	(no_connect
-		(at 345.44 151.13)
+		(at 337.82 152.4)
 		(uuid "4c1cf1cf-cabf-44c9-88fd-6c4773c72f5a")
 	)
 	(no_connect
-		(at 345.44 148.59)
+		(at 337.82 149.86)
 		(uuid "4dff9656-1963-4d5c-ba5a-95b4b067f81f")
 	)
 	(no_connect
-		(at 304.8 151.13)
+		(at 297.18 152.4)
 		(uuid "52bdecc6-bcda-4d68-a15b-120339b5fe7f")
 	)
 	(no_connect
-		(at 304.8 166.37)
+		(at 297.18 167.64)
 		(uuid "55265742-f926-4b68-817f-016edf9f43fe")
 	)
 	(no_connect
@@ -17057,15 +17057,15 @@
 		(uuid "5b33171f-c93c-4a7c-915f-d14dc9115340")
 	)
 	(no_connect
-		(at 304.8 143.51)
+		(at 297.18 144.78)
 		(uuid "64ea0836-58e9-45d7-b5af-5898081f71b8")
 	)
 	(no_connect
-		(at 345.44 179.07)
+		(at 337.82 180.34)
 		(uuid "65f672bc-c696-463e-8643-815f3c1e2192")
 	)
 	(no_connect
-		(at 345.44 176.53)
+		(at 337.82 177.8)
 		(uuid "6a1cd1ea-8542-4bbe-a98a-ce100a5a852d")
 	)
 	(no_connect
@@ -17077,11 +17077,11 @@
 		(uuid "73f6207d-16df-4b0e-bbdb-1f6419eb9cae")
 	)
 	(no_connect
-		(at 304.8 156.21)
+		(at 297.18 157.48)
 		(uuid "8047c2b4-d020-40e9-b517-8e58d2e908e6")
 	)
 	(no_connect
-		(at 345.44 181.61)
+		(at 337.82 182.88)
 		(uuid "896b97f0-e15a-4a35-80cb-c43398bc8700")
 	)
 	(no_connect
@@ -17093,7 +17093,7 @@
 		(uuid "8b9c0821-6dca-4d3e-94c9-2e86ac76f147")
 	)
 	(no_connect
-		(at 304.8 138.43)
+		(at 297.18 139.7)
 		(uuid "8d4873ad-907c-4364-ba89-45593c15a4af")
 	)
 	(no_connect
@@ -17113,7 +17113,7 @@
 		(uuid "a0136ffa-fb79-4f5c-823f-ce925470c640")
 	)
 	(no_connect
-		(at 345.44 156.21)
+		(at 337.82 157.48)
 		(uuid "a3e74f4d-0890-4fab-a5d9-44b359f42ba6")
 	)
 	(no_connect
@@ -17129,7 +17129,7 @@
 		(uuid "b896dc5d-da4c-4321-ad57-4345ad6e7d1c")
 	)
 	(no_connect
-		(at 345.44 168.91)
+		(at 337.82 170.18)
 		(uuid "bc24581f-832b-4964-a2ed-53c3fa80da0e")
 	)
 	(no_connect
@@ -17137,7 +17137,7 @@
 		(uuid "bce0432c-132f-483e-815d-81682574bb2d")
 	)
 	(no_connect
-		(at 304.8 153.67)
+		(at 297.18 154.94)
 		(uuid "bd85fdf0-a3b2-46eb-88d7-65ab71cff90b")
 	)
 	(no_connect
@@ -17157,7 +17157,7 @@
 		(uuid "c6ff3d33-0a0a-4f09-96fc-a23915ea9dd3")
 	)
 	(no_connect
-		(at 345.44 163.83)
+		(at 337.82 165.1)
 		(uuid "c8f6424b-b0cf-481d-9ec3-fe340d1825a6")
 	)
 	(no_connect
@@ -17165,11 +17165,11 @@
 		(uuid "ccfac504-e182-42ae-a99c-081c9d4d4629")
 	)
 	(no_connect
-		(at 304.8 163.83)
+		(at 297.18 165.1)
 		(uuid "cec9bdf1-de81-434a-b57d-2de6d60b4b85")
 	)
 	(no_connect
-		(at 304.8 179.07)
+		(at 297.18 180.34)
 		(uuid "dc7d5207-6e21-4207-9b4a-cf8e8698d7ec")
 	)
 	(no_connect
@@ -17181,15 +17181,15 @@
 		(uuid "ed48e218-b86c-4248-818b-9d9ca8f8e190")
 	)
 	(no_connect
-		(at 304.8 168.91)
+		(at 297.18 170.18)
 		(uuid "f0d7cf22-c922-4563-8e77-a952caf39f0d")
 	)
 	(no_connect
-		(at 345.44 166.37)
+		(at 337.82 167.64)
 		(uuid "f509f59c-aea3-4394-b250-90191f4f8f36")
 	)
 	(no_connect
-		(at 304.8 181.61)
+		(at 297.18 182.88)
 		(uuid "fc578c89-f6aa-4abf-9090-d365bd40e98b")
 	)
 	(wire
@@ -17784,7 +17784,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 124.46) (xy 403.86 130.81)
+			(xy 396.24 125.73) (xy 396.24 132.08)
 		)
 		(stroke
 			(width 0)
@@ -17874,7 +17874,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 130.81) (xy 391.16 130.81)
+			(xy 370.84 132.08) (xy 383.54 132.08)
 		)
 		(stroke
 			(width 0)
@@ -18134,7 +18134,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 138.43) (xy 403.86 138.43)
+			(xy 383.54 139.7) (xy 396.24 139.7)
 		)
 		(stroke
 			(width 0)
@@ -18301,6 +18301,16 @@
 			(type default)
 		)
 		(uuid "50c7beac-d125-4190-8a6c-c61c4454c21b")
+	)
+	(wire
+		(pts
+			(xy 260.35 203.2) (xy 269.24 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "515bef4c-15f4-496e-91e4-0dd117358b8d")
 	)
 	(wire
 		(pts
@@ -18654,16 +18664,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 203.2) (xy 269.24 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ea6b83c-8641-4171-9b7c-b8fc76020eff")
-	)
-	(wire
-		(pts
 			(xy 297.18 59.69) (xy 304.8 59.69)
 		)
 		(stroke
@@ -18754,7 +18754,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 138.43) (xy 403.86 143.51)
+			(xy 396.24 139.7) (xy 396.24 144.78)
 		)
 		(stroke
 			(width 0)
@@ -18804,7 +18804,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 138.43) (xy 391.16 138.43)
+			(xy 370.84 139.7) (xy 383.54 139.7)
 		)
 		(stroke
 			(width 0)
@@ -19254,7 +19254,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 138.43) (xy 355.6 138.43)
+			(xy 337.82 139.7) (xy 347.98 139.7)
 		)
 		(stroke
 			(width 0)
@@ -19934,7 +19934,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 203.2) (xy 243.84 203.2)
+			(xy 243.84 203.2) (xy 260.35 203.2)
 		)
 		(stroke
 			(width 0)
@@ -19964,7 +19964,7 @@
 	)
 	(wire
 		(pts
-			(xy 391.16 130.81) (xy 403.86 130.81)
+			(xy 383.54 132.08) (xy 396.24 132.08)
 		)
 		(stroke
 			(width 0)
@@ -20094,7 +20094,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 130.81) (xy 378.46 130.81)
+			(xy 337.82 132.08) (xy 370.84 132.08)
 		)
 		(stroke
 			(width 0)
@@ -20124,7 +20124,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 140.97) (xy 355.6 140.97)
+			(xy 337.82 142.24) (xy 347.98 142.24)
 		)
 		(stroke
 			(width 0)
@@ -20154,7 +20154,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 143.51) (xy 355.6 143.51)
+			(xy 337.82 144.78) (xy 347.98 144.78)
 		)
 		(stroke
 			(width 0)
@@ -20374,7 +20374,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 135.89) (xy 355.6 135.89)
+			(xy 337.82 137.16) (xy 347.98 137.16)
 		)
 		(stroke
 			(width 0)
@@ -21454,7 +21454,7 @@
 	)
 	(global_label "PR10B-RTSn"
 		(shape passive)
-		(at 355.6 138.43 0)
+		(at 347.98 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21464,7 +21464,7 @@
 		)
 		(uuid "38a06a77-7318-4b85-a00a-c3cdc5ac5434")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 362.736 138.43 0)
+			(at 355.116 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21564,7 +21564,7 @@
 	)
 	(global_label "PR10D-Rx"
 		(shape passive)
-		(at 355.6 143.51 0)
+		(at 347.98 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21574,7 +21574,7 @@
 		)
 		(uuid "89a6e9f4-5df3-410e-8dbf-16166e2dd967")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 361.5869 143.51 0)
+			(at 353.9669 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21652,7 +21652,7 @@
 	)
 	(global_label "PR10C-Tx"
 		(shape passive)
-		(at 355.6 140.97 0)
+		(at 347.98 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21662,7 +21662,7 @@
 		)
 		(uuid "bc3976ad-8400-416f-b36f-2c0f42bf5e16")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 361.4357 140.97 0)
+			(at 353.8157 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21696,7 +21696,7 @@
 	)
 	(global_label "PR10A-CTSn"
 		(shape passive)
-		(at 355.6 135.89 0)
+		(at 347.98 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21706,7 +21706,7 @@
 		)
 		(uuid "cef54f90-dab6-4aab-8cd8-6c6d0ba46346")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 362.6453 135.89 0)
+			(at 355.0253 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22983,6 +22983,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 260.35 199.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c21ca19-58d2-43bd-9a46-670297767377")
+		(property "Reference" "D6"
+			(at 262.89 198.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "D"
+			(at 262.89 200.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+			(at 260.35 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 260.35 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 260.35 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 260.35 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 260.35 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f0fcf324-77da-4404-a338-371026008cf1")
+		)
+		(pin "1"
+			(uuid "8910a61c-ef00-4983-862e-c83b1745ff7a")
+		)
+		(instances
+			(project ""
+				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 274.32 137.16 0)
 		(unit 1)
@@ -23066,8 +23154,8 @@
 		(at 269.24 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "229858d5-6ae1-43bf-bb98-840f784175db")
@@ -23477,7 +23565,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 391.16 134.62 0)
+		(at 383.54 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23486,7 +23574,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d6ee3b7-adf1-4b88-917f-7f7976bd6044")
 		(property "Reference" "C37"
-			(at 394.97 133.3499 0)
+			(at 387.35 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23495,7 +23583,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 394.97 135.8899 0)
+			(at 387.35 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23504,7 +23592,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 392.1252 138.43 0)
+			(at 384.5052 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23513,7 +23601,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 391.16 134.62 0)
+			(at 383.54 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23522,7 +23610,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 391.16 134.62 0)
+			(at 383.54 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23531,7 +23619,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C14663"
-			(at 391.16 134.62 0)
+			(at 383.54 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23615,101 +23703,6 @@
 			(project "Multiboard"
 				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d"
 					(reference "#PWR071")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 260.35 199.39 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "35ec3448-b81d-43bd-bb16-28794c8568c8")
-		(property "Reference" "D6"
-			(at 266.7 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 264.16 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 260.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 260.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 260.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 260.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
-			(at 260.35 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7eace61c-434c-4941-bf24-3edf7d0ee637")
-		)
-		(pin "1"
-			(uuid "d50b4c24-2a3b-4817-aea2-c58cff928f7c")
-		)
-		(instances
-			(project "Multiboard"
-				(path "/9ed4a389-3aa7-41f1-b239-280eb7f09ef1/a1879700-d4ae-4f4f-b9ed-53e5618d969d"
-					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -24604,7 +24597,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "?C20546?"
+		(property "LCSC Part Number" "C20546"
 			(at 77.47 204.47 0)
 			(effects
 				(font
@@ -25612,7 +25605,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 403.86 124.46 0)
+		(at 396.24 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25620,7 +25613,7 @@
 		(dnp no)
 		(uuid "92590b85-6c73-4b2b-9b95-1425bf015b05")
 		(property "Reference" "#PWR068"
-			(at 403.86 128.27 0)
+			(at 396.24 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25629,7 +25622,7 @@
 			)
 		)
 		(property "Value" "3V3_FPGA"
-			(at 403.86 119.38 0)
+			(at 396.24 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25637,7 +25630,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 124.46 0)
+			(at 396.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25646,7 +25639,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 403.86 124.46 0)
+			(at 396.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25655,7 +25648,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 403.86 124.46 0)
+			(at 396.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25678,16 +25671,16 @@
 	(symbol
 		(lib_name "LCMXO2-1200ZE-1TG144C_2")
 		(lib_id "LCMXO2-1200ZE-1TG144C:LCMXO2-1200ZE-1TG144C")
-		(at 325.12 156.21 0)
+		(at 317.5 157.48 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97d0e6f3-9c98-4d7f-bf9f-2959b75665f8")
 		(property "Reference" "U6"
-			(at 325.12 120.65 0)
+			(at 317.5 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25695,7 +25688,7 @@
 			)
 		)
 		(property "Value" "LCMXO2-1200ZE-1TG144C"
-			(at 325.12 123.19 0)
+			(at 317.5 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25703,7 +25696,7 @@
 			)
 		)
 		(property "Footprint" "LCMXO2-1200ZE-1TG144C:QFP50P2200X2200X160-144N"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25713,7 +25706,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25722,7 +25715,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25731,7 +25724,7 @@
 			)
 		)
 		(property "E1_MIN" "20.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25741,7 +25734,7 @@
 			)
 		)
 		(property "B_NOM" "0.22"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25751,7 +25744,7 @@
 			)
 		)
 		(property "EMAX" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25761,7 +25754,7 @@
 			)
 		)
 		(property "VACANCIES" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25771,7 +25764,7 @@
 			)
 		)
 		(property "PACKAGE_TYPE" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25781,7 +25774,7 @@
 			)
 		)
 		(property "D1_NOM" "20.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25791,7 +25784,7 @@
 			)
 		)
 		(property "E1_NOM" "20.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25801,7 +25794,7 @@
 			)
 		)
 		(property "BODY_DIAMETER" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25811,7 +25804,7 @@
 			)
 		)
 		(property "THERMAL_PAD" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25821,7 +25814,7 @@
 			)
 		)
 		(property "SNAPEDA_PACKAGE_ID" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25831,7 +25824,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/LCMXO2-1200ZE-1TG144C/Lattice+Semiconductor/view-part/?ref=eda"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25841,7 +25834,7 @@
 			)
 		)
 		(property "B_MAX" "0.27"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25851,7 +25844,7 @@
 			)
 		)
 		(property "Description_1" "MachXO2 Field Programmable Gate Array (FPGA) IC 107 65536 1280 144-LQFP"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25861,7 +25854,7 @@
 			)
 		)
 		(property "EMIN" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25871,7 +25864,7 @@
 			)
 		)
 		(property "JEDEC" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25881,7 +25874,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25891,7 +25884,7 @@
 			)
 		)
 		(property "ENOM" "0.5"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25901,7 +25894,7 @@
 			)
 		)
 		(property "D_NOM" "22.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25911,7 +25904,7 @@
 			)
 		)
 		(property "D_MAX" "22.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25921,7 +25914,7 @@
 			)
 		)
 		(property "L_MAX" "0.75"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25931,7 +25924,7 @@
 			)
 		)
 		(property "A_MAX" "1.6"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25941,7 +25934,7 @@
 			)
 		)
 		(property "D1_MAX" "20.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25951,7 +25944,7 @@
 			)
 		)
 		(property "Package" "TQFP-144 Lattice Semiconductor"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25961,7 +25954,7 @@
 			)
 		)
 		(property "D1_MIN" "20.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25971,7 +25964,7 @@
 			)
 		)
 		(property "E2_NOM" "0.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25981,7 +25974,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25991,7 +25984,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LCMXO2-1200ZE-1TG144C/Lattice+Semiconductor/view-part/?ref=snap"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26001,7 +25994,7 @@
 			)
 		)
 		(property "E_NOM" "22.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26011,7 +26004,7 @@
 			)
 		)
 		(property "BALL_ROWS" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26021,7 +26014,7 @@
 			)
 		)
 		(property "B_MIN" "0.17"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26031,7 +26024,7 @@
 			)
 		)
 		(property "D2_NOM" "0.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26041,7 +26034,7 @@
 			)
 		)
 		(property "L_NOM" "0.6"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26051,7 +26044,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Lattice Semiconductor"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26061,7 +26054,7 @@
 			)
 		)
 		(property "IPC" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26071,7 +26064,7 @@
 			)
 		)
 		(property "PIN_COLUMNS" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26081,7 +26074,7 @@
 			)
 		)
 		(property "MF" "Lattice Semiconductor"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26091,7 +26084,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=356700&manufacturer=Lattice Semiconductor&part_name=LCMXO2-1200ZE-1TG144C&search_term=None"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26101,7 +26094,7 @@
 			)
 		)
 		(property "BALL_COLUMNS" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26111,7 +26104,7 @@
 			)
 		)
 		(property "A1_MIN" "0.05"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26121,7 +26114,7 @@
 			)
 		)
 		(property "E1_MAX" "20.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26131,7 +26124,7 @@
 			)
 		)
 		(property "PIN_COUNT_E" "36.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26141,7 +26134,7 @@
 			)
 		)
 		(property "PIN_COUNT_D" "36.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26151,7 +26144,7 @@
 			)
 		)
 		(property "E_MIN" "22.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26161,7 +26154,7 @@
 			)
 		)
 		(property "D_MIN" "22.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26171,7 +26164,7 @@
 			)
 		)
 		(property "MP" "LCMXO2-1200ZE-1TG144C"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26181,7 +26174,7 @@
 			)
 		)
 		(property "PINS" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26191,7 +26184,7 @@
 			)
 		)
 		(property "L_MIN" "0.45"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26201,7 +26194,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26211,7 +26204,7 @@
 			)
 		)
 		(property "E_MAX" "22.0"
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26221,7 +26214,7 @@
 			)
 		)
 		(property "LCSC Part Number" ""
-			(at 325.12 156.21 0)
+			(at 317.5 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26795,7 +26788,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C14529"
 			(at 53.34 251.46 0)
 			(effects
 				(font
@@ -27258,8 +27251,8 @@
 		(at 87.63 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2893375-6a0f-4283-8592-84046b7fb6b6")
@@ -27650,7 +27643,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 378.46 134.62 0)
+		(at 370.84 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27659,7 +27652,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5b60de4-879a-4293-970c-73011017a49f")
 		(property "Reference" "C47"
-			(at 382.27 133.3499 0)
+			(at 374.65 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27668,7 +27661,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 382.27 135.8899 0)
+			(at 374.65 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27677,7 +27670,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 379.4252 138.43 0)
+			(at 371.8052 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27686,7 +27679,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 378.46 134.62 0)
+			(at 370.84 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27695,7 +27688,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 378.46 134.62 0)
+			(at 370.84 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27704,7 +27697,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C14663"
-			(at 378.46 134.62 0)
+			(at 370.84 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28449,7 +28442,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 403.86 143.51 0)
+		(at 396.24 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28458,7 +28451,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6ed0614-ae55-4a9f-9684-a85ce114eea4")
 		(property "Reference" "#PWR067"
-			(at 403.86 149.86 0)
+			(at 396.24 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28467,7 +28460,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 403.86 148.59 0)
+			(at 396.24 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28475,7 +28468,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.86 143.51 0)
+			(at 396.24 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28484,7 +28477,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 403.86 143.51 0)
+			(at 396.24 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28493,7 +28486,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 403.86 143.51 0)
+			(at 396.24 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28819,7 +28812,7 @@
 		(at 219.71 156.21 0)
 		(unit 4)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -30118,7 +30111,7 @@
 		(at 325.12 59.69 0)
 		(unit 2)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -31555,7 +31548,7 @@
 		(at 154.94 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -32763,7 +32756,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 403.86 134.62 0)
+		(at 396.24 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32772,7 +32765,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb01e2c0-8ba3-48ce-90cf-99f492550ee4")
 		(property "Reference" "C41"
-			(at 407.67 133.3499 0)
+			(at 400.05 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32781,7 +32774,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 407.67 135.8899 0)
+			(at 400.05 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32790,7 +32783,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 404.8252 138.43 0)
+			(at 397.2052 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32799,7 +32792,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 403.86 134.62 0)
+			(at 396.24 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32808,7 +32801,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 403.86 134.62 0)
+			(at 396.24 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32817,7 +32810,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C14663"
-			(at 403.86 134.62 0)
+			(at 396.24 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)

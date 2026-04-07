@@ -7553,7 +7553,7 @@
 		(at 87.63 62.23 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6f4edb6d-f3cf-4f12-92ae-3ac272e16097")
@@ -7769,8 +7769,8 @@
 		(at 264.16 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79a77cab-b417-466a-a497-276112cc8871")
@@ -8865,7 +8865,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
+		(property "LCSC Part Number" "C1350395"
 			(at 40.64 86.36 90)
 			(effects
 				(font
